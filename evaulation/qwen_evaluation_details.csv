@@ -1,0 +1,1095 @@
+question,reference,baseline_prediction,rag_prediction,baseline_cosine,rag_cosine,baseline_meteor,rag_meteor
+"Pasien mengalami demam pada waktu malam. Sebelum masuk rumah sakit, pasien merasa mual, muntah dan menggigil. Pasien didiagnosis penyakit apa?",Typhoid fever,"Berdasarkan gejala yang Anda sebutkan, ada beberapa kemungkinan diagnosis yang perlu dipertimbangkan. Namun, penting untuk diingat bahwa diagnosis akurat hanya dapat dibuat oleh dokter setelah pemeriksaan fisik dan tes medis yang tepat. Beberapa kemungkinan penyakit yang sesuai dengan gejala tersebut antara lain:
+
+1. Demam Tifoid: Penyakit ini disebabkan oleh bakteri Salmonella typhi dan dapat menyebabkan demam, mual, muntah, dan menggigil.
+
+2. Malaria: Penyakit ini disebabkan oleh parasit Plasmodium yang ditularkan melalui gigitan nyamuk. Gejala umumnya termasuk demam, menggigil, dan mual.
+
+3. Infeksi Saluran Pencernaan: Infeksi bakteri atau virus pada saluran pencernaan dapat menyebabkan demam, mual, dan muntah.
+
+4. Infeksi Saluran Kemih: Meskipun lebih umum menyebabkan demam siang hari, beberapa pasien mungkin mengalami demam malam hari. Gejala lain termasuk nyeri saat buang air kecil dan keinginan buang air kecil yang sering.
+
+5. Infeksi Paru-paru: Pneumonia atau bronkitis dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+6. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+7. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+8. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+9. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+10. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+11. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+12. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+13. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+14. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+15. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+16. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+17. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+18. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+19. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+20. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+21. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+22. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+23. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+24. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+25. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+26. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+27. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+28. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+29. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+30. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+31. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+32. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+33. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+34. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+35. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+36. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+37. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+38. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+39. Infeksi Saluran Kemih Atas: Seperti pielonefritis yang dapat menyebabkan demam, menggigil, dan kadang-kadang mual atau muntah.
+
+40. Infeksi Saluran Pencernaan Akut: Seperti gastroenteritis yang disebabkan oleh virus atau bakteri.
+
+41. Infeksi Saluran Kemih Atas: Seperti","Berdasarkan informasi yang diberikan, gejala yang dialami pasien seperti demam pada waktu malam, mual, muntah, dan menggigil bisa menjadi indikasi dari berbagai kondisi medis. Namun, jika kita menghubungkan dengan konteks informasi yang diberikan tentang Tuberkulosis (TB), gejala-gejala tersebut bisa menjadi bagian dari gejala sistemik yang disebutkan dalam informasi tersebut.
+
+Gejala sistemik TB meliputi demam, tidak nafsu makan, penurunan berat badan, keringat malam, dan mudah lelah. Dalam konteks ini, demam pada waktu malam dan menggigil bisa dihubungkan dengan gejala keringat malam yang disebutkan. Mual dan muntah juga bisa menjadi gejala yang muncul akibat kondisi tubuh yang lemah dan tidak nafsu makan.
+
+Namun, penting untuk diingat bahwa diagnosis penyakit tidak bisa hanya berdasarkan gejala saja. Diperlukan pemeriksaan fisik dan penunjang lainnya untuk memastikan diagnosis. Jika pasien diduga menderita TB, maka perlu dilakukan pemeriksaan sputum, tes tuberkulin, dan pemeriksaan lainnya sesuai dengan standar diagnosis yang telah ditetapkan.
+
+Jadi, berdasarkan informasi yang diberikan, pasien mungkin didiagnosis dengan Tuberkulosis (TB), namun perlu dilakukan pemeriksaan lebih lanjut untuk memastikan diagnosis tersebut.",0.33233932,0.07139101,0.0,0.0
+Pasien mengalami buang air besar cair lebih dari 6 kali sejak 1 hari lalu dengan mual dan muntah sebanyak 4 kali. Perut pasien juga terasa terlilit. Pasien didiagnosis penyakit apa?,Other gastroenteritis and colitis of infectious and unspecified origin,"Berdasarkan gejala yang Anda sebutkan, pasien mungkin mengalami diare akut yang disertai dengan mual, muntah, dan nyeri perut. Beberapa kemungkinan diagnosis yang perlu dipertimbangkan adalah:
+
+1. Infeksi saluran pencernaan (gastroenteritis):
+   - Biasanya disebabkan oleh virus, bakteri, atau parasit
+   - Gejala umumnya termasuk diare, mual, muntah, dan nyeri perut
+
+2. Kolera:
+   - Jika diare sangat cair dan berlangsung intensif
+   - Biasanya disebabkan oleh bakteri Vibrio cholerae
+
+3. Infeksi bakteri (misalnya Salmonella, Shigella, atau E. coli):
+   - Bisa menyebabkan diare berdarah atau berlendir
+
+4. Infeksi virus (misalnya rotavirus atau norovirus):
+   - Lebih umum pada anak-anak, tetapi juga bisa terjadi pada dewasa
+
+5. Intoksikasi makanan:
+   - Jika gejala muncul setelah mengonsumsi makanan tertentu
+
+6. Sindrom iritasi usus (IBS):
+   - Meskipun lebih umum menyebabkan diare kronis, bisa juga menyebabkan gejala akut
+
+7. Penyakit Crohn atau kolitis ulserativa:
+   - Jika pasien memiliki riwayat penyakit ini
+
+Untuk diagnosis yang tepat, perlu dilakukan pemeriksaan medis lebih lanjut, termasuk:
+
+1. Pemeriksaan fisik
+2. Riwayat medis dan riwayat perjalanan
+3. Analisis tinja
+4. Tes darah
+5. Mungkin pemeriksaan pencitraan jika diperlukan
+
+Penting untuk segera memberikan perawatan yang tepat, terutama untuk mengatasi dehidrasi yang mungkin terjadi akibat diare dan muntah yang berulang. Pasien harus segera diberikan cairan pengganti elektrolit dan mungkin perlu perawatan medis lebih lanjut tergantung pada penyebab yang mendasarinya.","Berdasarkan informasi yang Anda berikan, gejala yang dialami pasien seperti buang air besar cair lebih dari 6 kali dalam sehari, mual dan muntah, serta perasaan perut terlilit, lebih cenderung mengarah pada kondisi diare atau mungkin gastroenteritis. 
+
+Namun, perlu diingat bahwa diagnosis akurat harus dilakukan oleh profesional kesehatan setelah melakukan pemeriksaan fisik dan mungkin beberapa pemeriksaan penunjang. Gejala-gejala tersebut juga bisa menjadi tanda dari kondisi lain seperti infeksi saluran pencernaan, intoleransi laktosa, sindrom iritasi usus, atau kondisi medis lainnya.
+
+Jika gejala tersebut berlanjut atau memburuk, segera hubungi profesional kesehatan untuk mendapatkan penanganan yang tepat.",0.4778025,0.34991413,0.015290519877675844,0.026737967914438502
+"Pasien datang dengan keluhan demam selama 6 hari. Pasien lemas, nyeri sendi, dan muncul bercak merah di seluruh tubuh.  Pasien didiagnosis penyakit apa?",Dengue fever [classical dengue],"Berdasarkan keluhan yang Anda sebutkan, pasien tersebut mungkin mengalami penyakit demam berdarah dengue (DBD). DBD adalah penyakit yang disebabkan oleh virus dengue yang ditularkan melalui gigitan nyamuk Aedes aegypti. Gejala DBD biasanya muncul 4-7 hari setelah gigitan nyamuk dan dapat berlangsung selama 2-7 hari. Gejala umum DBD meliputi demam tinggi, sakit kepala, sakit belakang mata, sakit otot dan sendi, mual, muntah, dan ruam kulit. Bercak merah yang muncul di seluruh tubuh juga merupakan salah satu gejala DBD. Namun, untuk diagnosis yang akurat, pasien perlu menjalani pemeriksaan medis dan tes laboratorium yang sesuai.","Berdasarkan informasi yang diberikan, keluhan pasien seperti demam selama 6 hari, lemas, nyeri sendi, dan muncul bercak merah di seluruh tubuh tidak secara spesifik mengarah pada diagnosis Tuberkulosis (TB) Paru yang dibahas dalam teks yang Anda berikan. Gejala-gejala tersebut lebih umum terkait dengan berbagai kondisi lainnya, seperti infeksi virus, reaksi alergi, atau kondisi autoimun tertentu.
+
+Namun, tanpa informasi lebih lanjut atau hasil pemeriksaan fisik dan penunjang, sulit untuk memberikan diagnosis yang akurat. Beberapa kondisi yang mungkin perlu dipertimbangkan meliputi:
+
+1. Infeksi virus: Seperti mononukleosis, rubella, atau infeksi virus lainnya yang dapat menyebabkan demam, lemas, nyeri sendi, dan ruam kulit.
+
+2. Reaksi alergi: Bisa disebabkan oleh makanan, obat-obatan, atau zat-zat lain yang menyebabkan demam, lemas, nyeri sendi, dan ruam kulit.
+
+3. Kondisi autoimun: Seperti lupus eritematosus sistemik yang dapat menyebabkan demam, lemas, nyeri sendi, dan ruam kulit.
+
+4. Infeksi bakteri: Seperti demam tifoid atau infeksi bakteri lainnya yang dapat menyebabkan gejala serupa.
+
+5. Kondisi hematologis: Seperti anemia atau kondisi darah lainnya yang dapat menyebabkan demam, lemas, dan gejala lainnya.
+
+Untuk diagnosis yang akurat, pasien perlu menjalani pemeriksaan fisik yang menyeluruh, anamnesis yang mendalam, dan pemeriksaan penunjang yang sesuai. Dokter akan mempertimbangkan riwayat medis pasien, gejala yang dialami, dan hasil pemeriksaan untuk menentukan diagnosis yang tepat dan merencanakan pengobatan yang sesuai.",0.4508711,0.33120736,0.06134969325153375,0.0
+"Pasien menderita demam disertai munculnya bruntus kemerahan dan panas di telapak tangan kiri, lengan kiri dan leher kiri. Lengan nyeri, kaku dan sulit diangkat. Sudah berobat tapi belum ada membaik. #Hasil pemeriksaan TD = 108/88 mmHg, R = 20 brpm,  S= 38 C, Status generalis = batas normal, status lokalis = leher kiri, bahu kiri dan telapak tangan kiri. Pasien didiagnosis penyakit apa?",Zoster [herpes zoster],"Berdasarkan gejala dan hasil pemeriksaan yang Anda sebutkan, pasien ini mungkin mengalami penyakit yang disebut ""Dermatomyositis"". Dermatomyositis adalah penyakit autoimun yang menyebabkan peradangan pada otot dan kulit. Gejala yang mungkin muncul termasuk demam, bruntus kemerahan pada kulit, nyeri dan kekakuan pada otot, serta kesulitan dalam mengangkat lengan. Diagnosis penyakit ini biasanya didasarkan pada hasil pemeriksaan fisik, hasil pemeriksaan laboratorium, dan hasil pemeriksaan pencitraan. Namun, untuk memastikan diagnosis, pasien perlu diperiksa lebih lanjut oleh dokter spesialis.","Berdasarkan informasi yang diberikan, gejala yang dialami pasien seperti demam, bruntus kemerahan, panas di telapak tangan kiri, lengan kiri dan leher kiri, serta nyeri, kaku dan sulit mengangkat lengan kiri, tidak sesuai dengan gejala-gejala yang disebutkan dalam bahan bacaan tentang Tuberkulosis (TB) Paru. Gejala-gejala yang disebutkan dalam bahan bacaan tersebut lebih berkaitan dengan sistem pernapasan dan sistemik seperti batuk produktif lebih dari 2 minggu, nyeri dada, sesak napas, hemoptisis, demam, tidak nafsu makan, penurunan berat badan, keringat malam, dan mudah lelah.
+
+Gejala yang dialami pasien lebih menunjukkan kemungkinan adanya infeksi atau peradangan pada area leher kiri, bahu kiri, dan telapak tangan kiri. Beberapa kemungkinan diagnosis yang mungkin sesuai dengan gejala tersebut antara lain:
+
+1. Infeksi kulit atau jaringan lunak: Seperti selulitis atau abses, yang ditandai dengan demam, bruntus kemerahan, panas lokal, dan nyeri pada area yang terinfeksi.
+
+2. Radang sendi atau bursitis: Jika pasien mengalami nyeri, kaku, dan sulit mengangkat lengan kiri, kemungkinan ada peradangan pada sendi atau bursa di sekitar bahu.
+
+3. Infeksi sistemik: Seperti infeksi bakteri atau virus yang menyebabkan demam dan peradangan pada beberapa area tubuh.
+
+Namun, untuk menentukan diagnosis yang tepat, diperlukan pemeriksaan lebih lanjut seperti pemeriksaan fisik yang lebih detail, pemeriksaan penunjang seperti darah lengkap, tes infeksi, dan jika diperlukan, pemeriksaan imaging seperti X-ray atau USG untuk melihat kondisi jaringan lunak dan sendi. Selain itu, perlu juga mengetahui riwayat penyakit pasien, riwayat pengobatan yang telah dilakukan, dan faktor risiko lainnya yang mungkin berhubungan dengan gejala yang dialami.",0.10589029,0.01879004,0.0,0.0
+Pasien nyeri dada sejak 4 jam lalu seperti terhimpit batu besar dan menjalar sampai ke bahu kiri. Pasien sakit apa?,hipertensi urgensi,"Berdasarkan gejala yang Anda sebutkan, pasien tersebut mungkin mengalami serangan jantung atau infark miokard. Gejala-gejala yang Anda sebutkan, seperti nyeri dada yang terasa seperti terhimpit batu besar dan menjalar ke bahu kiri, adalah gejala umum dari serangan jantung. Namun, hanya dokter yang dapat memberikan diagnosis yang tepat setelah melakukan pemeriksaan medis dan tes yang diperlukan. Jika pasien mengalami gejala-gejala tersebut, segera bawa pasien ke rumah sakit atau hubungi layanan medis darurat.","Berdasarkan gejala yang Anda sebutkan, pasien mungkin mengalami serangan jantung atau infark miokard akut. Gejala nyeri dada yang terasa seperti terhimpit dan menjalar ke bahu kiri adalah salah satu tanda klasik dari serangan jantung. Namun, penting untuk diingat bahwa diagnosis akurat hanya dapat dibuat oleh tenaga medis profesional setelah pemeriksaan fisik dan pemeriksaan penunjang yang sesuai.
+
+Gejala lain yang mungkin terkait dengan serangan jantung meliputi:
+
+1. Nyeri dada yang berat dan menekan, biasanya berlangsung lebih dari beberapa menit atau hilang dan muncul kembali.
+2. Nyeri atau ketidaknyamanan di satu atau kedua lengan, punggung, leher, rahang, atau perut.
+3. Sesak napas, yang dapat terjadi dengan atau tanpa nyeri dada.
+4. Lainnya seperti berkeringat, mual, atau pusing.
+
+Jika seseorang mengalami gejala-gejala ini, segera hubungi layanan medis darurat atau bawa pasien ke rumah sakit terdekat. Waktu sangat penting dalam penanganan serangan jantung, dan tindakan cepat dapat menyelamatkan nyawa dan meminimalkan kerusakan pada jantung.",0.19521631,0.19329484,0.0,0.0
+"Pasien mengalami sesak nafas sejak siang. #Hasil Pemeriksaan TD = 100/80 mmHg, S = 36 °C . RR = 20 bpm, wheezing (nafas berbunyi),  Sp02 = 90%. Pasien didiagnosis penyakit apa?","Asthma, Unspecified","Berdasarkan hasil pemeriksaan yang Anda berikan, pasien mengalami sesak nafas sejak siang dengan beberapa temuan klinis:
+
+1. Tekanan darah (TD) = 100/80 mmHg (normal)
+2. Suhu tubuh (S) = 36°C (normal)
+3. Frekuensi nafas (RR) = 20 bpm (normal)
+4. Wheezing (nafas berbunyi)
+5. SpO2 = 90% (rendah, normalnya >95%)
+
+Dari temuan-temuan ini, beberapa kemungkinan diagnosis yang perlu dipertimbangkan adalah:
+
+1. Asma bronkial: Wheezing dan sesak nafas adalah gejala khas asma. SpO2 yang rendah juga mendukung kemungkinan ini.
+
+2. Pneumonia: Meskipun tidak ada demam, sesak nafas dan wheezing bisa menjadi gejala pneumonia.
+
+3. Bronkitis akut: Gejala serupa dengan asma, tetapi biasanya disertai batuk.
+
+4. Pneumotaks: Sesak nafas tiba-tiba dan wheezing bisa menjadi gejala pneumotaks.
+
+5. Kardiopati iskemik: Meskipun jarang menyebabkan wheezing, sesak nafas bisa menjadi gejala kardiopati iskemik.
+
+Namun, untuk diagnosis yang akurat, diperlukan pemeriksaan lebih lanjut seperti:
+
+1. Riwayat medis pasien dan riwayat alergi
+2. Pemeriksaan fisik yang lebih detail
+3. Pemeriksaan laboratorium (misalnya, CBC, CRP)
+4. Pemeriksaan radiologi (X-ray dada)
+5. Spirometri (jika diduga asma)
+
+Tanpa informasi tambahan ini, sulit untuk memberikan diagnosis yang pasti. Pasien ini perlu segera mendapatkan perawatan medis lebih lanjut untuk menentukan diagnosis yang tepat dan mendapatkan pengobatan yang sesuai.","Berdasarkan informasi yang diberikan, pasien mengalami sesak nafas sejak siang dengan beberapa tanda dan gejala sebagai berikut:
+
+- Tekanan darah (TD) = 100/80 mmHg
+- Suhu tubuh (S) = 36 °C
+- Frekuensi nafas (RR) = 20 bpm
+- Wheezing (nafas berbunyi)
+- SpO2 (oksigenasi darah) = 90%
+
+Dari gejala dan tanda-tanda tersebut, pasien mungkin mengalami kondisi yang berkaitan dengan sistem pernapasan. Beberapa kemungkinan diagnosis yang mungkin adalah:
+
+1. Asma: Gejala sesak nafas, wheezing, dan penurunan oksigenasi darah dapat menjadi indikasi asma. Namun, untuk memastikan diagnosis ini, diperlukan informasi lebih lanjut tentang riwayat asma pasien dan hasil pemeriksaan lainnya.
+
+2. Pneumonia: Sesak nafas, penurunan oksigenasi darah, dan gejala pernapasan lainnya dapat menjadi tanda pneumonia. Namun, untuk memastikan diagnosis ini, diperlukan pemeriksaan lebih lanjut seperti pemeriksaan darah, radiologi dada, dan pemeriksaan mikroskopis sputum.
+
+3. Tuberkulosis Paru: Gejala sesak nafas dan penurunan oksigenasi darah juga dapat menjadi tanda tuberkulosis paru. Namun, untuk memastikan diagnosis ini, diperlukan pemeriksaan lebih lanjut seperti pemeriksaan mikroskopis sputum, radiologi dada, dan pemeriksaan darah.
+
+4. Penyakit Paru Obstruktif Kronik (PPOK): Gejala sesak nafas dan penurunan oksigenasi darah juga dapat menjadi tanda PPOK. Namun, untuk memastikan diagnosis ini, diperlukan informasi lebih lanjut tentang riwayat merokok pasien dan hasil pemeriksaan lainnya.
+
+Untuk memastikan diagnosis yang tepat, diperlukan pemeriksaan lebih lanjut dan evaluasi klinis yang komprehensif oleh tenaga medis yang berkompeten.",0.38613352,0.30926642,0.018181818181818184,0.016949152542372885
+"Pasien mengalami sesak napas sejak sehari lalu, batuk berdahak, pilek, dan buang air kecil lebih dari 10 kali di malam hari. Pasien sudah  mengonsumsi obat tapi belum ada perubahan. #Hasil pemeriksaan TD = 135/70 mmHg, S = 36,5°C, RR= 24 x/mnt, N= 75 x/mnt, dan Sp02= 95%. Pasien didiagnosis penyakit apa?","Asthma, unspecified","Berdasarkan gejala dan hasil pemeriksaan yang Anda sebutkan, pasien mungkin mengalami beberapa kondisi medis yang perlu dipertimbangkan. Namun, penting untuk diingat bahwa diagnosis akurat hanya dapat dibuat oleh dokter setelah pemeriksaan fisik langsung dan tes medis yang sesuai. Berikut beberapa kemungkinan diagnosis:
+
+1. Infeksi saluran pernapasan bawah (ISPB):
+   - Sesak napas, batuk berdahak, dan pilek adalah gejala umum ISPB.
+   - Infeksi ini bisa disebabkan oleh virus atau bakteri.
+
+2. Pneumonia:
+   - Gejala sesak napas, batuk berdahak, dan demam (meskipun suhu tubuh pasien normal) bisa menunjukkan pneumonia.
+   - Pneumonia bisa disebabkan oleh virus atau bakteri.
+
+3. Bronkitis akut:
+   - Batuk berdahak dan sesak napas bisa menjadi gejala bronkitis.
+
+4. Infeksi saluran kemih (ISK):
+   - Frekuensi buang air kecil yang tinggi, terutama di malam hari, bisa menunjukkan ISK.
+   - Namun, ISK biasanya disertai dengan nyeri saat buang air kecil, yang tidak disebutkan dalam kasus ini.
+
+5. Asma:
+   - Sesak napas dan batuk bisa menjadi gejala asma, terutama jika pasien memiliki riwayat asma.
+
+6. Sindrom metabolik atau diabetes:
+   - Frekuensi buang air kecil yang tinggi bisa menjadi gejala sindrom metabolik atau diabetes.
+
+Meskipun hasil pemeriksaan fisik (TD, suhu, RR, N, dan SpO2) tampak normal, gejala yang dialami pasien menunjukkan adanya masalah kesehatan yang perlu ditangani. Pasien harus segera berkonsultasi dengan dokter untuk mendapatkan diagnosis yang tepat dan pengobatan yang sesuai. Dokter mungkin akan melakukan pemeriksaan lebih lanjut seperti:
+
+- Pemeriksaan fisik langsung
+- Tes darah
+- Rontgen dada
+- Tes urine
+- Tes fungsi paru-paru
+
+Penting untuk tidak menunda perawatan medis, terutama jika gejala sesak napas semakin memburuk.","Berdasarkan informasi yang diberikan, pasien mengalami gejala seperti sesak napas, batuk berdahak, pilek, dan frekuensi buang air kecil yang meningkat. Gejala-gejala ini bisa disebabkan oleh berbagai kondisi medis, namun tidak cukup spesifik untuk menentukan diagnosis pasti. Namun, beberapa kemungkinan kondisi yang mungkin terjadi adalah:
+
+1. Infeksi saluran pernapasan akut: Gejala seperti sesak napas, batuk berdahak, dan pilek bisa disebabkan oleh infeksi saluran pernapasan akut. Infeksi ini bisa disebabkan oleh virus atau bakteri dan biasanya disertai dengan demam, sakit tenggorokan, dan sakit kepala.
+
+2. Pneumonia: Gejala seperti sesak napas, batuk berdahak, dan pilek juga bisa disebabkan oleh pneumonia. Pneumonia adalah infeksi paru-paru yang bisa disebabkan oleh virus, bakteri, atau jamur. Pneumonia biasanya disertai dengan demam, sakit dada, dan sesak napas yang semakin parah.
+
+3. Infeksi saluran kemih: Frekuensi buang air kecil yang meningkat bisa disebabkan oleh infeksi saluran kemih. Infeksi ini biasanya disertai dengan rasa sakit atau ketidaknyamanan saat buang air kecil, demam, dan nyeri perut bagian bawah.
+
+Namun, perlu diingat bahwa diagnosis pasti hanya bisa ditentukan oleh dokter setelah melakukan pemeriksaan fisik dan pemeriksaan penunjang yang diperlukan. Jika pasien mengalami gejala yang tidak kunjung membaik atau semakin parah, sebaiknya segera berkonsultasi dengan dokter untuk mendapatkan penanganan yang tepat.",0.31107685,0.3229059,0.015197568389057755,0.019230769230769235
+"Pasien mengalami sesak nafas sekitar 3 hari, tapi jarang batuk. Pasien didiagnosis penyakit apa?",asthma,"Berdasarkan gejala yang Anda sebutkan, yaitu sesak nafas yang berlangsung sekitar 3 hari dengan jarang batuk, ada beberapa kemungkinan diagnosis yang perlu dipertimbangkan. Namun, penting untuk diingat bahwa diagnosis akurat hanya dapat dibuat oleh dokter setelah pemeriksaan fisik dan tes medis yang sesuai. Berikut beberapa kemungkinan kondisi medis yang mungkin:
+
+1. Pneumonia (radang paru-paru): Meskipun jarang batuk, pneumonia bisa menyebabkan sesak nafas yang berkepanjangan.
+
+2. Asma: Kondisi ini bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+3. Penyakit paru obstruktif kronis (PPOK): Gejala ini bisa muncul tanpa batuk yang signifikan.
+
+1. Pneumonia (radang paru-paru): Meskipun biasanya disertai batuk, pneumonia bisa muncul tanpa batuk yang signifikan pada beberapa kasus.
+
+2. Bronkitis kronis: Kondisi ini bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+3. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+4. Anemia: Kekurangan sel darah merah bisa menyebabkan sesak nafas.
+
+5. Kekurangan oksigen: Bisa disebabkan oleh berbagai faktor, termasuk masalah pernapasan atau sirkulasi darah.
+
+6. Kanker paru-paru: Dalam beberapa kasus, bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+7. Sindrom saluran pernapasan atas: Bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+8. Penyakit paru obstruktif kronis (PPOK): Meskipun biasanya disertai batuk, bisa juga muncul tanpa batuk yang signifikan.
+
+9. Penyakit jantung koroner: Bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+10. Penyakit autoimun: Beberapa kondisi autoimun bisa mempengaruhi fungsi paru-paru dan menyebabkan sesak nafas.
+
+11. Penyakit paru obstruktif kronis (PPOK): Kondisi ini bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+12. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+13. Penyakit paru interstitial: Kondisi ini bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+14. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+15. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+4. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+5. Penyakit paru obstruktif kronis (PPOK): Kondisi ini bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+6. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+7. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+8. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+9. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+10. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+11. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+12. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+13. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+14. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+15. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+16. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+17. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+18. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+19. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+20. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+21. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+22. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+23. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+24. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+25. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+26. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+27. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+28. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+29. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+30. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+31. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+32. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+33. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang berlebihan.
+
+34. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak nafas tanpa batuk yang signifikan.
+
+35. Penyakit jantung: Beberapa kondisi jantung bisa menyebabkan sesak","Berdasarkan informasi yang diberikan, pasien mengalami sesak nafas selama sekitar 3 hari, namun jarang batuk. Gejala ini tidak cukup untuk mendiagnosis penyakit secara pasti, terutama karena informasi yang diberikan sangat terbatas. Namun, beberapa kemungkinan kondisi yang dapat menyebabkan gejala tersebut antara lain:
+
+1. Pneumonia: Meskipun batuk adalah gejala umum dari pneumonia, beberapa pasien mungkin hanya mengalami sesak nafas tanpa batuk. Pneumonia dapat disebabkan oleh bakteri, virus, atau jamur.
+
+2. Asma: Asma adalah kondisi pernapasan kronis yang dapat menyebabkan sesak nafas, terutama selama serangan asma. Namun, pasien dengan asma biasanya juga mengalami batuk dan mengi.
+
+3. Penyakit Paru Obstruktif Kronis (PPOK): PPOK adalah kondisi pernapasan kronis yang dapat menyebabkan sesak nafas. Gejala lain dari PPOK termasuk batuk dan mengi.
+
+4. Kardiomiopati: Kondisi ini dapat menyebabkan sesak nafas, terutama saat beraktivitas atau berbaring.
+
+5. Anemia: Kekurangan sel darah merah dapat menyebabkan sesak nafas karena tubuh tidak mendapatkan cukup oksigen.
+
+6. Kekurangan vitamin D: Kekurangan vitamin D dapat menyebabkan sesak nafas dan kelelahan.
+
+7. Stres atau kecemasan: Kondisi mental ini juga dapat menyebabkan sesak nafas.
+
+Namun, perlu diingat bahwa diagnosis penyakit harus dilakukan oleh tenaga medis yang kompeten setelah melakukan pemeriksaan fisik dan mungkin beberapa pemeriksaan penunjang. Jadi, jika seseorang mengalami sesak nafas yang berkepanjangan, sebaiknya segera berkonsultasi dengan dokter.",0.2438851,0.2691185,0.0,0.0
+"Pasien nyeri ulu hati/perut bagian atas sejak 2 hari lalu, sampai mual dan muntah-muntah. Dada terasa berat, kepala pusing. Batuk berdahak dan demam. Pasien sakit apa?",Gastro-oesophageal reflux disease without oesophagitis,"Berdasarkan gejala yang Anda sebutkan, pasien mungkin mengalami beberapa kondisi medis yang mungkin terkait. Namun, penting untuk diingat bahwa diagnosis akurat hanya dapat dilakukan oleh tenaga medis profesional setelah pemeriksaan langsung. Berikut beberapa kemungkinan kondisi yang mungkin terjadi:
+
+1. Infeksi saluran pencernaan: Nyeri ulu hati, mual, muntah, dan demam bisa menjadi tanda infeksi saluran pencernaan, seperti gastroenteritis atau infeksi bakteri atau virus pada lambung dan usus.
+
+2. Penyakit maag atau gastritis: Gejala seperti nyeri ulu hati, mual, dan muntah bisa menjadi tanda masalah pada lambung atau usus, seperti gastritis atau tukak lambung.
+
+3. Infeksi saluran pernapasan atas: Batuk berdahak dan demam bisa menjadi tanda infeksi saluran pernapasan atas, seperti flu atau pilek. Infeksi ini bisa menyebabkan peradangan pada saluran pencernaan dan pernapasan.
+
+4. Pneumonia: Gejala seperti batuk berdahak dan demam bisa menjadi tanda pneumonia, terutama jika disertai dengan rasa berat pada dada dan pusing.
+
+5. Infeksi saluran pernapasan: Batuk berdahak dan demam bisa menjadi tanda infeksi saluran pernapasan atas atau bawah, seperti bronkitis atau pneumonia.
+
+6. Infeksi saluran pencernaan: Infeksi saluran pencernaan bisa menyebabkan gejala seperti batuk berdahak dan demam.
+
+7. Infeksi saluran pencernaan dan pernapasan: Kombinasi gejala ini bisa menjadi tanda infeksi saluran pernapasan, seperti bronkitis atau pneumonia.
+
+8. Penyakit jantung: Meskipun jarang, gejala seperti nyeri dada dan pusing bisa menjadi tanda masalah jantung, seperti infeksi saluran pernapasan bawah, seperti pneumonia atau bronkitis.
+
+9. Penyakit jantung: Meskipun jarang, gejala seperti nyeri dada dan pusing bisa menjadi tanda masalah jantung, seperti infeksi saluran pernapasan bawah, seperti pneumonia atau bronkitis.
+
+10. Penyakit jantung: Meskipun jarang, gejala seperti nyeri dada dan pusing bisa menjadi tanda masalah jantung, seperti serangan jantung atau penyakit jantung lainnya.
+
+11. Penyakit ginjal: Infeksi ginjal atau masalah ginjal lainnya bisa menyebabkan gejala seperti yang disebutkan.
+
+12. Penyakit hati: Infeksi atau masalah lain pada hati bisa menyebabkan gejala seperti yang disebutkan.
+
+13. Penyakit hati: Infeksi atau masalah lain pada hati bisa menyebabkan gejala seperti yang disebutkan.
+
+14. Penyakit hati: Infeksi atau masalah lain pada hati bisa menyebabkan gejala seperti yang disebutkan.
+
+15. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+16. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+17. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+18. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+19. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+20. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+21. Penyakit ginjal: Infeksi atau masalah ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+19. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+20. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+21. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+22. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+23. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+24. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+25. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+26. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+27. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+28. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+29. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+29. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+22. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+23. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+24. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+25. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+26. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+27. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+28. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+29. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+30. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+31. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+32. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+33. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+34. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+35. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+36. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+37. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+38. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+39. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+40. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang disebutkan.
+
+41. Penyakit ginjal: Infeksi atau masalah lain pada ginjal bisa menyebabkan gejala seperti yang diseb","Berdasarkan gejala yang disebutkan, pasien mungkin mengalami beberapa kondisi medis yang berbeda. Namun, penting untuk diingat bahwa diagnosis akurat hanya dapat dibuat oleh profesional kesehatan setelah pemeriksaan fisik dan tes medis yang tepat. Berikut beberapa kemungkinan kondisi yang mungkin dialami pasien:
+
+1. Infeksi saluran pernapasan atas: Gejala seperti batuk berdahak dan demam bisa menjadi tanda infeksi saluran pernapasan atas. Infeksi ini bisa disebabkan oleh virus atau bakteri dan biasanya disertai dengan gejala seperti sakit tenggorokan, hidung tersumbat, dan sakit kepala.
+
+2. Gastroenteritis: Nyeri ulu hati/perut bagian atas, mual, dan muntah bisa menjadi tanda gastroenteritis, yang merupakan peradangan pada saluran pencernaan. Gastroenteritis bisa disebabkan oleh virus, bakteri, atau parasit dan biasanya disertai dengan diare.
+
+3. Penyakit maag: Nyeri ulu hati/perut bagian atas dan perasaan berat di dada bisa menjadi tanda penyakit maag. Penyakit maag terjadi ketika asam lambung mengiritasi dinding lambung atau usus halus, yang bisa disebabkan oleh berbagai faktor seperti stres, makanan tertentu, atau penggunaan obat-obatan tertentu.
+
+4. Pneumonia: Gejala seperti batuk berdahak, demam, dan nyeri dada bisa menjadi tanda pneumonia, yang merupakan infeksi paru-paru. Pneumonia bisa disebabkan oleh virus atau bakteri dan bisa menjadi kondisi yang serius jika tidak ditangani dengan tepat.
+
+Namun, perlu diingat bahwa gejala yang disebutkan bisa menjadi tanda berbagai kondisi medis yang berbeda. Oleh karena itu, sangat penting untuk segera menghubungi profesional kesehatan untuk mendapatkan diagnosis dan perawatan yang tepat.",0.36829156,0.362061,0.0,0.0
+Pasien merasa nyeri di ulu hati sampai terasa sesak seperti terbakar sampai terasa sesak. Pasien muntah dan mual. Pasien sakit apa?,dyspepsia,"Berdasarkan gejala yang Anda sebutkan, pasien mungkin mengalami beberapa kondisi medis yang mungkin terkait dengan nyeri di ulu hati, sesak, muntah, dan mual. Beberapa kemungkinan kondisi yang mungkin terjadi antara lain:
+
+1. Refluks Asam Lambung: Kondisi ini terjadi ketika asam lambung naik ke kerongkongan, menyebabkan sensasi terbakar di ulu hati dan sesak. Gejala lain yang mungkin terjadi adalah mual dan muntah.
+
+2. Penyakit Maag: Penyakit ini terjadi ketika lapisan lambung mengalami iritasi atau peradangan, yang dapat menyebabkan nyeri di ulu hati, mual, dan muntah.
+
+3. Penyakit Jantung: Beberapa kondisi jantung seperti serangan jantung atau penyakit jantung koroner dapat menyebabkan nyeri di ulu hati dan sesak. Gejala lain yang mungkin terjadi adalah mual dan muntah.
+
+4. Penyakit Pankreas: Penyakit pankreas seperti pankreatitis dapat menyebabkan nyeri di ulu hati, mual, dan muntah.
+
+5. Penyakit Hati: Penyakit hati seperti hepatitis atau sirosis dapat menyebabkan nyeri di ulu hati, mual, dan muntah.
+
+Namun, penting untuk diingat bahwa diagnosis yang tepat hanya dapat dilakukan oleh dokter setelah melakukan pemeriksaan fisik dan tes medis yang diperlukan. Jika pasien mengalami gejala yang parah atau berlangsung lama, sebaiknya segera menghubungi dokter atau tenaga medis profesional untuk mendapatkan diagnosis dan perawatan yang tepat.","Berdasarkan gejala yang Anda sebutkan, pasien mungkin mengalami kondisi yang disebut ""refluks asam"" atau ""penyakit refluks gastroesofageal"" (GERD). Gejala umum dari kondisi ini termasuk nyeri di ulu hati, sensasi terbakar di dada, sesak, mual, dan muntah. 
+
+Namun, penting untuk diingat bahwa gejala ini juga bisa disebabkan oleh kondisi lain seperti penyakit jantung, infeksi saluran pencernaan, atau bahkan stres. Oleh karena itu, sangat penting untuk pasien untuk segera berkonsultasi dengan dokter atau profesional kesehatan lainnya untuk mendapatkan diagnosis yang tepat dan perawatan yang sesuai. 
+
+Jangan mencoba untuk mendiagnosis atau merawat kondisi kesehatan sendiri berdasarkan informasi yang Anda baca di internet. Selalu cari bantuan medis profesional jika Anda atau seseorang yang Anda kenal mengalami gejala yang mengganggu.",0.01799663,0.20251891,0.0,0.0
+"Pasien mengalami buang air besar cair 5 kali lebih dan nyeri di ulu hati, mual, dan muntah sebanyak lebih dari 7 kali.  Sudah minum tapi dimuntahkan kembali, bisa masuk makanan. #Hasil pemeriksaan TD = 180/89 mmHg. Pasien didagnosis penyakit apa?",Dyspepsia,"Berdasarkan gejala yang Anda sebutkan, pasien mungkin mengalami kondisi yang disebut gastroenteritis atau keracunan makanan. Gejala seperti diare, mual, muntah, dan nyeri perut adalah tanda-tanda umum dari kondisi ini. Namun, tekanan darah yang tinggi (TD = 180/89 mmHg) juga perlu diperhatikan, karena dapat menunjukkan adanya kondisi lain seperti hipertensi atau dehidrasi yang parah.
+
+Namun, penting untuk diingat bahwa diagnosis akurat hanya dapat dilakukan oleh dokter setelah melakukan pemeriksaan fisik dan mungkin beberapa tes laboratorium. Jika pasien mengalami gejala seperti yang Anda sebutkan, sebaiknya segera menghubungi dokter atau tenaga medis profesional untuk mendapatkan perawatan yang tepat.","Berdasarkan gejala yang Anda sebutkan, pasien mungkin mengalami kondisi yang disebut gastroenteritis atau mungkin sindrom iritasi usus (IBS). Gejala seperti buang air besar cair, nyeri di ulu hati, mual, dan muntah adalah gejala umum dari gastroenteritis. Namun, tekanan darah tinggi (TD = 180/89 mmHg) juga disebutkan, yang mungkin menunjukkan adanya kondisi lain seperti hipertensi atau bahkan sindrom metabolik.
+
+Namun, perlu diingat bahwa diagnosis penyakit harus dilakukan oleh tenaga medis profesional setelah melakukan pemeriksaan fisik dan mungkin beberapa tes medis. Informasi yang Anda berikan tidak cukup untuk membuat diagnosis yang akurat. Jadi, sebaiknya pasien segera mengunjungi dokter untuk mendapatkan diagnosis dan perawatan yang tepat.",0.15206774,0.16496363,0.0,0.0
+"Pasien nyeri pinggang kanan sejak 6 jam lalu, mual tapi tidak demam. Punya riwayat nyeri saat berkemih/buang air kecil. Pasien sakit apa?",Unspecified renal colic,"Berdasarkan gejala yang Anda sebutkan, ada beberapa kemungkinan kondisi yang mungkin dialami pasien tersebut. Namun, penting untuk diingat bahwa diagnosis akurat memerlukan pemeriksaan medis langsung oleh dokter. Berikut beberapa kemungkinan:
+
+1. Infeksi saluran kemih (ISK):
+   - Sesuai dengan riwayat nyeri saat berkemih
+   - Nyeri pinggang kanan bisa disebabkan oleh ISK yang sudah menyebar ke ginjal
+
+2. Batu ginjal:
+   - Bisa menyebabkan nyeri pinggang yang parah
+   - Nyeri bisa menyebar ke perut bagian bawah atau paha
+   - Bisa disertai mual
+
+3. Kolik ginjal:
+   - Nyeri yang tiba-tiba dan sangat parah di pinggang atau sisi perut
+   - Bisa disertai mual dan muntah
+
+4. Radikulopati (tekanan pada saraf di tulang belakang):
+   - Bisa menyebabkan nyeri pinggang yang menyebar ke paha atau kaki
+
+5. Divertikulitis:
+   - Meskipun lebih umum di sisi kiri, bisa terjadi di sisi kanan juga
+   - Bisa menyebabkan nyeri perut dan mual
+
+Langkah-langkah yang disarankan:
+
+1. Bawa pasien ke dokter atau rumah sakit untuk pemeriksaan lebih lanjut.
+2. Dokter mungkin akan melakukan pemeriksaan fisik, tes urine, dan mungkin pemeriksaan imaging seperti USG atau CT scan.
+3. Berikan informasi lengkap tentang gejala, riwayat medis, dan obat-obatan yang dikonsumsi kepada dokter.
+
+Ingat, diagnosis dan pengobatan yang tepat hanya bisa dilakukan oleh tenaga medis profesional setelah pemeriksaan langsung.","Berdasarkan informasi yang Anda berikan, pasien mengalami nyeri pinggang kanan yang sudah berlangsung selama 6 jam, disertai dengan mual namun tidak demam. Pasien juga memiliki riwayat nyeri saat berkemih atau buang air kecil. Gejala-gejala ini bisa menjadi indikasi beberapa kondisi medis, namun perlu diingat bahwa diagnosis akurat hanya dapat dilakukan oleh tenaga medis profesional setelah melakukan pemeriksaan fisik dan pemeriksaan penunjang yang diperlukan.
+
+Beberapa kondisi yang mungkin terkait dengan gejala yang disebutkan:
+
+1. Infeksi Saluran Kemih (ISK): Pasien memiliki riwayat nyeri saat berkemih, yang merupakan salah satu gejala umum dari ISK. Infeksi ini dapat menyebabkan nyeri pinggang, terutama di sisi yang terinfeksi, dan mual. Namun, ISK biasanya juga disertai dengan demam dan gejala lain seperti frekuensi buang air kecil yang meningkat, nyeri saat buang air kecil, dan urine yang berwarna aneh atau berbau.
+
+2. Batu Ginjal: Nyeri pinggang yang tiba-tiba dan hebat, disertai dengan mual dan muntah, bisa menjadi gejala dari batu ginjal. Batu ginjal juga bisa menyebabkan nyeri saat berkemih. Namun, batu ginjal biasanya juga disertai dengan demam, urine berdarah, dan nyeri yang berpindah dari pinggang ke perut bagian bawah atau selangkangan.
+
+3. Penyakit Pankreas: Nyeri pinggang yang disertai dengan mual bisa menjadi gejala dari penyakit pankreas, seperti pankreatitis atau kanker pankreas. Namun, penyakit pankreas biasanya juga disertai dengan gejala lain seperti penurunan berat badan, diare, dan perubahan warna kulit dan mata menjadi kuning (jaundice).
+
+4. Penyakit Lain: Gejala yang disebutkan juga bisa menjadi indikasi dari kondisi medis lainnya, seperti penyakit ginjal, penyakit hati, atau kondisi medis lainnya yang mempengaruhi sistem pencernaan atau sistem reproduksi.
+
+Untuk mengetahui kondisi medis yang tepat dari pasien, diperlukan pemeriksaan fisik dan pemeriksaan penunjang yang sesuai, seperti pemeriksaan urine, pemeriksaan darah, atau pemeriksaan imaging seperti USG atau CT scan. Jika pasien mengalami gejala yang disebutkan, sebaiknya segera menghubungi tenaga medis profesional untuk mendapatkan diagnosis dan penanganan yang tepat.",0.10406654,0.046273775,0.0,0.0
+"Pasien mengalami nyeri perut sejak sehari lalu dan makin parah 3 jam kemudian, sampai menangis, menjerit, sulit buang air besar, muntah dan demam. Pasien didiagnosis penyakit apa?",Acute abdomen,"Berdasarkan gejala yang Anda sebutkan, pasien mungkin mengalami kondisi medis yang serius. Namun, penting untuk diingat bahwa diagnosis akurat hanya dapat dilakukan oleh dokter setelah pemeriksaan langsung dan tes medis yang sesuai. Beberapa kemungkinan kondisi yang mungkin terjadi meliputi:
+
+1. Appendisitis (peradangan usus buntu):
+   - Gejala: Nyeri perut yang makin parah, muntah, demam, kesulitan BAB
+   - Memerlukan tindakan medis segera untuk mencegah pecahnya usus buntu
+
+2. Obstruksi usus:
+   - Gejala: Nyeri perut hebat, kesulitan BAB, muntah, perut kembung
+   - Kondisi darurat yang memerlukan perawatan segera
+
+3. Kolitis iskemik:
+   - Gejala: Nyeri perut hebat, demam, muntah, perdarahan rektal
+   - Kondisi serius yang memerlukan perawatan medis segera
+
+4. Divertikulitis:
+   - Gejala: Nyeri perut hebat, demam, muntah, perubahan pola BAB
+   - Memerlukan perawatan medis, terkadang operasi
+
+5. Penyakit Crohn atau kolitis ulserativa:
+   - Gejala: Nyeri perut, demam, muntah, perubahan pola BAB
+   - Kondisi kronis yang memerlukan manajemen jangka panjang
+
+Tindakan yang harus diambil:
+1. Bawa pasien ke rumah sakit atau klinik terdekat segera.
+2. Jangan memberikan obat apa pun tanpa resep dokter.
+3. Jaga pasien tetap tenang dan nyaman sambil menunggu bantuan medis.
+
+Ingat, diagnosis akurat dan perawatan yang tepat hanya dapat dilakukan oleh profesional medis setelah pemeriksaan langsung dan tes yang sesuai.","Berdasarkan informasi yang diberikan, gejala yang dialami pasien seperti nyeri perut yang semakin parah, sulit buang air besar, muntah, dan demam tidak sesuai dengan gejala tuberkulosis (TB) paru yang disebutkan dalam teks. Gejala-gejala tersebut lebih cenderung mengarah pada kondisi medis yang berbeda.
+
+Beberapa kemungkinan diagnosis yang mungkin sesuai dengan gejala tersebut termasuk:
+
+1. **Obstruksi Usus**: Nyeri perut yang semakin parah, kesulitan buang air besar, dan muntah bisa menjadi tanda adanya obstruksi usus. Hal ini bisa disebabkan oleh berbagai faktor seperti hernia, adhesi, atau bahkan tumor.
+
+2. **Appendisitis**: Nyeri perut yang tiba-tiba dan semakin parah, terutama di sekitar perut bagian bawah kanan, bisa menjadi tanda appendisitis. Pasien dengan appendisitis juga bisa mengalami muntah dan demam.
+
+3. **Divertikulitis**: Jika pasien memiliki riwayat divertikula, nyeri perut yang semakin parah, demam, dan muntah bisa menjadi tanda divertikulitis.
+
+4. **Penyakit Crohn atau Kolitis Ulserativa**: Kondisi ini bisa menyebabkan nyeri perut, diare (atau kesulitan buang air besar dalam kasus sembelit), muntah, dan demam.
+
+5. **Gastritis atau Ulkus Pepsik**: Meskipun lebih umum menyebabkan nyeri perut yang terlokalisasi di perut bagian atas, gastritis atau ulkus pepsik juga bisa menyebabkan muntah dan demam.
+
+6. **Infeksi Saluran Pencernaan**: Infeksi bakteri atau virus pada saluran pencernaan bisa menyebabkan gejala seperti nyeri perut, muntah, demam, dan gangguan buang air besar.
+
+Namun, untuk diagnosis yang akurat, pasien harus segera diperiksa oleh dokter. Dokter akan melakukan anamnesis, pemeriksaan fisik, dan mungkin pemeriksaan penunjang seperti laboratorium darah, USG, atau CT scan untuk menentukan penyebab pasti gejala tersebut.",0.1945532,0.2742412,0.0,0.0
+"Pasien mengalami nyeri perut, mulas, mual, muntah dan tidak bisa buang air besar selama 2 hari, tapi bisa buang air kecil dan kentut. Sudah minum obat pereda nyeri lambung, namun belum ada tanda perbaikan. #Hasil pemeriksaan menunjukkan kepala dan thorax normal, nyeri tekan di epigastrik, abdomen soepel (lembut), perkusi tympani. Pasien didiagnosis penyakit apa?",Pain localized to upper abdomen,"Berdasarkan gejala dan hasil pemeriksaan yang Anda sebutkan, pasien ini mungkin mengalami kondisi yang disebut ileus. Ileus adalah kondisi di mana terjadi gangguan fungsi usus yang menyebabkan makanan, cairan, dan gas tidak dapat bergerak melalui saluran pencernaan dengan normal. Berikut adalah beberapa alasan mengapa diagnosis ileus mungkin cocok dengan kasus ini:
+
+1. Gejala:
+   - Nyeri perut
+   - Mulas
+   - Mual dan muntah
+   - Tidak bisa buang air besar selama 2 hari
+   - Tetap bisa buang air kecil dan kentut
+
+2. Hasil pemeriksaan fisik:
+   - Nyeri tekan di epigastrik (daerah perut bagian atas)
+   - Abdomen soepel (lembut)
+   - Perkusi tympani (suara tembakan ketika diperkus)
+
+3. Faktor lain:
+   - Tidak ada perbaikan setelah minum obat pereda nyeri lambung
+   - Kepala dan thorax normal, menunjukkan bahwa masalahnya kemungkinan besar terkait dengan sistem pencernaan
+
+Ileus dapat disebabkan oleh berbagai faktor, termasuk:
+- Gangguan motilitas usus
+- Efek samping obat-obatan tertentu
+- Infeksi
+- Gangguan hormonal
+- Kondisi medis lainnya
+
+Namun, penting untuk diingat bahwa diagnosis akhir harus dibuat oleh dokter setelah melakukan pemeriksaan lebih lanjut, seperti:
+- Pemeriksaan laboratorium
+- Rontgen abdomen
+- USG abdomen
+- CT scan (jika diperlukan)
+
+Jika diagnosis ileus dikonfirmasi, pengobatan akan tergantung pada penyebab dan keparahan kondisi. Pengobatan mungkin melibatkan:
+- Pemberian cairan intravena
+- Penggunaan obat-obatan tertentu
+- Pemasangan selang nasogastrik
+- Dalam kasus yang parah, mungkin diperlukan tindakan bedah
+
+Pasien harus segera mendapatkan perawatan medis yang tepat untuk mencegah komplikasi yang lebih serius.","Berdasarkan gejala dan hasil pemeriksaan yang Anda sebutkan, pasien mungkin mengalami kondisi yang disebut **Obstruksi Usus Parsial** atau **Obstruksi Usus Fungsional**. Berikut adalah penjelasan lebih lanjut:
+
+### Gejala yang Dicatat:
+1. **Nyeri Perut**: Pasien mengeluhkan nyeri perut, yang merupakan gejala umum pada banyak kondisi gastrointestinal.
+2. **Mulas, Mual, dan Muntah**: Gejala ini sering terjadi ketika ada gangguan pada saluran pencernaan, seperti obstruksi usus.
+3. **Tidak Bisa Buang Air Besar**: Ini adalah tanda yang kuat dari obstruksi usus, karena feses tidak dapat melewati usus besar.
+4. **Bisa Buang Air Kecil dan Kentut**: Meskipun pasien tidak bisa buang air besar, kemampuan untuk buang air kecil dan kentut menunjukkan bahwa obstruksi mungkin tidak total atau ada gangguan fungsional.
+5. **Penggunaan Obat Pereda Nyeri Lambung**: Pasien telah mencoba mengatasi gejala dengan obat pereda nyeri lambung, namun tidak ada perbaikan.
+
+### Hasil Pemeriksaan Fisik:
+1. **Kepala dan Thorax Normal**: Tidak ada temuan abnormal pada kepala dan dada.
+2. **Nyeri Tekan di Epigastrik**: Nyeri yang terlokalisasi di area epigastrik (bagian atas perut) bisa menunjukkan masalah pada lambung atau usus halus.
+3. **Abdomen Soepel (Lembut)**: Abdomen yang lembut menunjukkan tidak ada peradangan atau kaku yang signifikan.
+4. **Perkusi Tympani**: Suara tympani (suara seperti memukul drum) saat perkusi menunjukkan adanya gas dalam abdomen, yang bisa terjadi pada obstruksi usus.
+
+### Diagnosis yang Mungkin:
+1. **Obstruksi Usus Parsial**: Kondisi ini terjadi ketika ada hambatan sebagian pada saluran usus, yang bisa disebabkan oleh berbagai faktor seperti adhesi, hernia, atau penyakit inflamasi usus. Gejala umumnya termasuk nyeri perut, mual, muntah, dan kesulitan buang air besar.
+2. **Obstruksi Usus Fungsional**: Jika tidak ada hambatan fisik yang terdeteksi, kondisi ini bisa disebabkan oleh gangguan fungsional seperti spasme usus atau gangguan motilitas.
+
+### Langkah Selanjutnya:
+1. **Pemeriksaan Penunjang**: Dokter mungkin akan merujuk pasien untuk melakukan pemeriksaan penunjang seperti radiografi abdomen (X-ray) atau USG abdomen untuk melihat lebih detail kondisi usus.
+2. **Pengobatan dan Pengawasan**: Pasien mungkin perlu dirawat di rumah sakit untuk pengawasan lebih lanjut, terapi cairan intravena, dan pengobatan yang sesuai dengan kondisi yang didiagnosis.
+
+Jika gejala tidak membaik atau bahkan memburuk, pasien harus segera mendapatkan perawatan medis lebih lanjut untuk mencegah komplikasi yang lebih serius.",0.23327273,0.11082719,0.016181229773462785,0.00925925925925926
+"Pasien mengalami nyeri hebat di perut bawah, disertai kram, mual, dan kesulitan tidur. #Hasil oemeriksaan TD = 130/89 mmHg, N - 88 bpm, S = 37°C, hasil jantung dan paru dalam batas normal, dan tidak ada kelainan di kepala. Pemeriksaan abdomen tidak menunjukkan tanda nyeri di regio iliaka kiri. Refill kapiler normal (2 detik), tetapi tingkat nyeri sangat tinggi (VAS: 10/10). Pasien didagnosis penyakit apa?",Other and unspecified abdominal pain,"Berdasarkan gejala dan hasil pemeriksaan yang Anda sebutkan, ada beberapa kemungkinan diagnosis yang perlu dipertimbangkan. Namun, penting untuk diingat bahwa diagnosis akhir harus dibuat oleh dokter setelah pemeriksaan fisik menyeluruh dan pemeriksaan penunjang yang diperlukan. Berikut beberapa kemungkinan diagnosis:
+
+1. Endometriosis: Kondisi ini sering menyebabkan nyeri perut bawah yang parah, terutama pada wanita. Gejala lain seperti kram, mual, dan kesulitan tidur juga sesuai dengan endometriosis.
+
+2. Divertikulitis: Meskipun tidak ada nyeri di regio iliaka kiri, divertikulitis masih mungkin terjadi. Nyeri bisa berpindah atau tidak spesifik.
+
+3. Kolik ginjal: Meskipun lebih umum menyebabkan nyeri di sisi punggung, kolik ginjal bisa menyebabkan nyeri perut bawah yang parah.
+
+4. Penyakit radang usus (IBD): Kondisi seperti kolitis ulserativa atau penyakit Crohn bisa menyebabkan gejala yang disebutkan.
+
+5. Penyakit radang panggul (PID): Meskipun lebih umum pada wanita, bisa menyebabkan gejala yang mirip.
+
+6. Penyakit saluran cerna fungsional: Seperti sindrom iritasi usus (IBS) bisa menyebabkan nyeri perut yang parah.
+
+7. Penyakit psikosomatik: Tingkat nyeri yang sangat tinggi (VAS 10/10) bisa menunjukkan adanya komponen psikologis.
+
+Untuk diagnosis yang tepat, diperlukan:
+1. Riwayat medis lengkap, termasuk riwayat menstruasi (jika pasien adalah wanita)
+2. Pemeriksaan fisik lebih lanjut, termasuk pemeriksaan panggul
+3. Pemeriksaan penunjang seperti USG abdomen, CT scan, atau kolonoskopi
+4. Pemeriksaan laboratorium seperti CBC, CRP, dan tes fungsi ginjal
+
+Ingatlah bahwa diagnosis akhir harus dibuat oleh dokter berdasarkan semua informasi yang tersedia. Jika pasien mengalami nyeri yang sangat parah, sebaiknya segera mendapatkan perawatan medis.","Berdasarkan informasi yang diberikan, pasien mengalami nyeri hebat di perut bawah, disertai kram, mual, dan kesulitan tidur. Hasil pemeriksaan fisik menunjukkan tekanan darah (TD) 130/89 mmHg, denyut nadi (N) 88 bpm, suhu tubuh (S) 37°C, dan tidak ada kelainan pada jantung, paru, kepala, dan abdomen. Refill kapiler normal (2 detik), tetapi tingkat nyeri sangat tinggi (VAS: 10/10).
+
+Dari gejala dan hasil pemeriksaan fisik yang disebutkan, beberapa kemungkinan diagnosis yang perlu dipertimbangkan adalah:
+
+1. **Endometriosis**: Kondisi ini terjadi ketika jaringan yang biasanya tumbuh di dalam rahim tumbuh di luar rahim. Gejala umumnya meliputi nyeri perut bawah yang parah, kram, dan mual, terutama selama menstruasi. Namun, endometriosis juga bisa menyebabkan nyeri kronis di perut bawah yang tidak terkait dengan siklus menstruasi.
+
+2. **Salpingitis (Infeksi Saluran Telur)**: Infeksi ini bisa menyebabkan nyeri perut bawah yang parah, disertai dengan kram, mual, dan kadang-kadang demam. Meskipun tidak ada tanda nyeri di regio iliaka kiri, infeksi saluran telur bisa menyebabkan nyeri yang tersebar di perut bawah.
+
+3. **Ovarian Cyst (Kista Ovarium)**: Kista ovarium bisa menyebabkan nyeri perut bawah yang parah, terutama jika kista pecah atau terdistorsi. Gejala lainnya bisa meliputi kram, mual, dan kadang-kadang pusing.
+
+4. **Pelvic Inflammatory Disease (PID)**: PID adalah infeksi yang melibatkan organ reproduksi wanita, seperti rahim, saluran telur, dan ovarium. Gejala umumnya meliputi nyeri perut bawah yang parah, kram, mual, dan kadang-kadang demam.
+
+5. **Appendicitis (Radang Usus Buntu)**: Meskipun tidak ada tanda nyeri di regio iliaka kiri, appendicitis bisa menyebabkan nyeri perut bawah yang parah yang awalnya bisa terasa di sekitar pusar dan kemudian berpindah ke regio iliaka kanan. Gejala lainnya bisa meliputi mual, demam, dan kehilangan nafsu makan.
+
+6. **Irritable Bowel Syndrome (IBS)**: IBS adalah gangguan pencernaan yang bisa menyebabkan nyeri perut bawah yang parah, kram, dan perubahan pola buang air besar. Gejala lainnya bisa meliputi mual dan kesulitan tidur.
+
+Untuk menentukan diagnosis yang tepat, perlu dilakukan pemeriksaan lebih lanjut, seperti pemeriksaan laboratorium (misalnya, tes darah lengkap, tes kehamilan, dan tes infeksi), pemeriksaan imaging (misalnya, USG atau CT scan), dan pemeriksaan ginekologi jika pasien adalah wanita. Selain itu, anamnesis yang mendalam juga sangat penting untuk mengetahui riwayat penyakit, riwayat obat-obatan, dan faktor risiko lainnya yang bisa membantu dalam menentukan diagnosis yang tepat.",0.26477826,0.21438614,0.0,0.0
+"Pasien muntah-muntah sejak 3 hari lalu setiap makanan masuk, demam dan batuk pilek. #Hasil pemeriksaan:  TD=120/78,  N=  88x/m, R= 21x/m S 37,6 °C, Kepala, thorax dalam batas normal, Abdomen : NT epigastrik, Ext : akral hangat, CRT <2detik. Pasien didiagnosis penyakit apa?",Nausea and vomiting,"Berdasarkan gejala dan hasil pemeriksaan yang Anda berikan, pasien mungkin mengalami kondisi yang disebut gastroenteritis atau infeksi saluran pencernaan. Gejala seperti muntah-muntah, demam, dan batuk pilek dapat menjadi tanda dari infeksi saluran pencernaan. Namun, untuk diagnosis yang lebih akurat, pasien perlu menjalani pemeriksaan lebih lanjut seperti tes darah, tes urine, dan tes pencernaan. Selain itu, dokter juga perlu mengetahui riwayat kesehatan pasien dan faktor risiko lainnya untuk menentukan diagnosis yang tepat.","Berdasarkan informasi yang diberikan, pasien mengalami gejala muntah-muntah sejak 3 hari lalu setiap makanan masuk, demam, dan batuk pilek. Hasil pemeriksaan fisik menunjukkan tekanan darah (TD) 120/78 mmHg, nadi (N) 88 kali per menit, pernapasan (R) 21 kali per menit, suhu tubuh (S) 37,6 °C, kepala dan thorax dalam batas normal, abdomen NT epigastrik, ekstremitas akral hangat, dan CRT kurang dari 2 detik.
+
+Dari gejala dan hasil pemeriksaan fisik tersebut, pasien mungkin mengalami beberapa kondisi yang perlu dipertimbangkan:
+
+1. **Infeksi Saluran Pernapasan Atas (ISPA)**: Gejala batuk pilek dan demam bisa menjadi indikasi ISPA. Namun, gejala muntah-muntah yang berat dan terjadi setiap kali makanan masuk perlu diperhatikan lebih lanjut.
+
+2. **Gastroenteritis**: Gejala muntah-muntah yang berat dan terjadi setiap kali makanan masuk bisa menjadi indikasi gastroenteritis. Gastroenteritis bisa disebabkan oleh infeksi virus, bakteri, atau parasit yang menginfeksi saluran pencernaan.
+
+3. **Infeksi Saluran Pernapasan Bawah (ISPB)**: Gejala batuk pilek dan demam juga bisa menjadi indikasi ISPB. Namun, gejala muntah-muntah yang berat perlu diperhatikan lebih lanjut untuk memastikan tidak ada komplikasi lain.
+
+4. **Dehidrasi**: Gejala muntah-muntah yang berat dan terjadi setiap kali makanan masuk bisa menyebabkan dehidrasi. Dehidrasi bisa menyebabkan penurunan tekanan darah, peningkatan denyut jantung, dan penurunan suhu tubuh.
+
+5. **Infeksi Saluran Kemih (ISK)**: Gejala demam dan muntah-muntah juga bisa menjadi indikasi ISK. Namun, gejala batuk pilek perlu diperhatikan lebih lanjut untuk memastikan tidak ada komplikasi lain.
+
+Untuk memastikan diagnosis, perlu dilakukan pemeriksaan penunjang seperti pemeriksaan darah, pemeriksaan urin, dan pemeriksaan lainnya sesuai dengan kebutuhan. Selain itu, perlu dilakukan tindakan pengobatan yang sesuai dengan kondisi pasien, seperti pemberian obat antiemesis untuk mengatasi muntah-muntah, pemberian obat antipiretik untuk mengatasi demam, dan pemberian cairan untuk mengatasi dehidrasi.",0.28254482,0.15926631,0.0,0.0
+"Pasien mengalami demam, menggigil, sulit tidur, batuk dan pilek. Sudah mengkonsumsi obat penurun demam dan dikompres. Demam sudah berkurang. #Hasil pemeriksaan S = 39°C, N = 111 bpm, RR = 20 brpm. Pasien didagnosis penyakit apa?",fever,"Berdasarkan gejala dan hasil pemeriksaan yang Anda sebutkan, pasien mungkin mengalami infeksi saluran pernapasan atas (ISPA). Berikut adalah analisis lebih lanjut:
+
+1. Gejala:
+   - Demam: Suhu tubuh 39°C (tinggi)
+   - Menggigil: Indikasi infeksi
+   - Sulit tidur: Bisa disebabkan oleh ketidaknyamanan atau demam
+   - Batuk dan pilek: Gejala umum ISPA
+
+2. Hasil pemeriksaan:
+   - Suhu (S): 39°C (demam tinggi)
+   - Nadi (N): 111 bpm (tinggi, bisa disebabkan oleh demam)
+   - Frekuensi pernapasan (RR): 20 brpm (normal untuk dewasa)
+
+3. Tindakan yang sudah dilakukan:
+   - Konsumsi obat penurun demam
+   - Kompres
+   - Demam sudah berkurang
+
+Diagnosis yang mungkin:
+1. Infeksi saluran pernapasan atas (ISPA)
+2. Flu (influenza)
+3. Sinusitis akut
+4. Bronkitis akut
+
+Namun, untuk diagnosis yang lebih akurat, perlu dilakukan pemeriksaan lebih lanjut seperti:
+
+1. Pemeriksaan fisik terperinci, terutama pada saluran pernapasan
+2. Riwayat medis dan riwayat penyakit pasien
+3. Pemeriksaan laboratorium (jika diperlukan)
+4. Pemeriksaan radiologi (jika diperlukan)
+
+Penting untuk konsultasi dengan dokter untuk evaluasi lebih lanjut dan penanganan yang tepat. Dokter mungkin akan meresepkan obat tambahan, memberikan saran perawatan, dan memantau perkembangan kondisi pasien.","Berdasarkan informasi yang diberikan, pasien mengalami gejala demam, menggigil, sulit tidur, batuk, dan pilek. Gejala ini bisa disebabkan oleh berbagai kondisi, termasuk infeksi virus seperti flu atau pilek biasa. Namun, tidak ada informasi yang cukup untuk menentukan diagnosis pasti.
+
+Namun, jika kita melihat dari konteks informasi yang diberikan tentang Tuberkulosis (TB) Paru, gejala yang disebutkan seperti demam, tidak nafsu makan, penurunan berat badan, keringat malam, dan mudah lelah adalah gejala sistemik dari TB Paru. Batuk produktif lebih dari 2 minggu juga merupakan gejala umum TB Paru.
+
+Namun, perlu diingat bahwa diagnosis TB Paru tidak bisa hanya berdasarkan gejala saja. Diperlukan pemeriksaan fisik dan pemeriksaan penunjang seperti pemeriksaan mikroskopi kuman TB dari spesimen sputum/dahak, radiologi dengan foto toraks, dan lain-lain untuk menegakkan diagnosis TB Paru.
+
+Jadi, berdasarkan gejala yang disebutkan, pasien mungkin diduga mengalami infeksi virus seperti flu atau pilek biasa. Namun, jika gejala berlanjut lebih dari 2 minggu, pasien perlu diperiksa lebih lanjut untuk menyingkirkan kemungkinan TB Paru atau kondisi lainnya.",0.18507963,0.32493022,0.0,0.0
+"Pasien demam tinggi hari ke 3, batuk berdahak, dan pilek. Sudah konsumsi obat demam, demam masih naik turun",Fever,"Berdasarkan gejala yang Anda sebutkan, pasien mungkin mengalami infeksi saluran pernapasan akut. Berikut beberapa saran yang bisa Anda lakukan:
+
+1. Teruskan pengobatan demam: Jika demam masih naik turun, lanjutkan konsumsi obat demam sesuai dosis yang dianjurkan. Jika demam tidak kunjung turun, segera konsultasikan dengan dokter.
+
+2. Istirahat yang cukup: Pastikan pasien mendapatkan istirahat yang cukup untuk membantu tubuh melawan infeksi.
+
+3. Minum banyak cairan: Minum banyak air atau cairan lainnya dapat membantu melegakan tenggorokan dan mencegah dehidrasi.
+
+4. Obati batuk dan pilek: Anda bisa memberikan obat batuk dan pilek yang sesuai dengan gejala yang dialami pasien. Namun, sebaiknya konsultasikan terlebih dahulu dengan dokter atau apoteker.
+
+5. Jaga kebersihan: Pastikan pasien menjaga kebersihan diri dan lingkungan sekitar untuk mencegah penyebaran infeksi.
+
+6. Perhatikan gejala lain: Jika pasien mengalami gejala lain seperti kesulitan bernapas, sakit dada, atau demam yang sangat tinggi, segera bawa pasien ke rumah sakit.
+
+Ingatlah bahwa saran di atas hanya sebagai panduan umum. Jika kondisi pasien tidak membaik atau malah memburuk, segera konsultasikan dengan dokter untuk mendapatkan penanganan yang tepat.","Berdasarkan informasi yang Anda berikan, pasien mengalami demam tinggi, batuk berdahak, dan pilek. Meskipun pasien sudah mengonsumsi obat demam, demam masih naik turun. Berikut adalah beberapa hal yang perlu dipertimbangkan:
+
+1. **Pertimbangan Tuberkulosis (TB) Paru**: Gejala yang disebutkan seperti demam, batuk berdahak, dan pilek bisa menjadi gejala awal dari beberapa penyakit, termasuk TB paru. Namun, untuk diagnosis TB paru, biasanya diperlukan gejala batuk produktif yang berlangsung lebih dari 2 minggu, yang disertai dengan gejala pernapasan seperti nyeri dada, sesak napas, atau hemoptisis, serta gejala sistemik seperti demam, tidak nafsu makan, penurunan berat badan, keringat malam, dan mudah lelah. Jika gejala pasien sudah berlangsung lebih dari 2 minggu dan disertai dengan gejala-gejala tersebut, maka perlu dilakukan pemeriksaan lebih lanjut untuk menegakkan diagnosis TB paru.
+
+2. **Pemeriksaan Fisik dan Penunjang**: Untuk menegakkan diagnosis, perlu dilakukan pemeriksaan fisik dan penunjang seperti pemeriksaan darah, pemeriksaan mikroskopi kuman TB (Bakteri Tahan Asam/BTA) atau kultur kuman dari spesimen sputum/dahak, dan radiologi dengan foto toraks PA-Lateral/top lordotik. Jika hasil pemeriksaan menunjukkan adanya kelainan yang mencurigakan TB paru, maka perlu dilakukan pemeriksaan lebih lanjut untuk menegakkan diagnosis.
+
+3. **Penatalaksanaan**: Jika diagnosis TB paru terkonfirmasi, maka perlu dilakukan penatalaksanaan yang komprehensif. Tujuan pengobatan adalah menyembuhkan, mengembalikan kualitas hidup dan produktivitas pasien, mencegah kematian akibat TB aktif atau efek lanjutan, mencegah kekambuhan TB, mengurangi penularan TB kepada orang lain, dan mencegah terjadinya resistensi obat dan penularannya. Prinsip-prinsip terapi termasuk penggunaan Obat Anti Tuberkulosis (OAT) dalam bentuk kombinasi dari beberapa jenis obat, dalam jumlah cukup dan dosis tepat sesuai dengan kategori pengobatan, penggunaan OAT-Kombinasi Dosis Tepat (KDT)/Fixed Dose Combination (FDC), pengawasan langsung (DOT=Directly Observed Treatment) oleh seorang pengawas menelan obat, dan monitoring respons pengobatan pasien.
+
+4. **Konseling dan Edukasi**: Pasien dan keluarga perlu diberikan informasi tentang penyakit tuberkulosis, pengawasan ketaatan minum obat dan kontrol secara teratur, serta pola hidup sehat dan sanitasi lingkungan.
+
+5. **Kriteria Rujukan**: Jika pasien tidak menunjukkan perbaikan setelah pengobatan dalam jangka waktu tertentu, atau jika pasien memiliki komplikasi/keadaan khusus (TB dengan komorbid), maka pasien perlu dirujuk ke pusat rujukan yang lebih tinggi.
+
+Namun, perlu diingat bahwa gejala yang disebutkan juga bisa menjadi gejala dari penyakit lain. Oleh karena itu, perlu dilakukan pemeriksaan lebih lanjut untuk menegakkan diagnosis yang tepat dan memberikan penatalaksanaan yang sesuai.",-0.008071423,0.18497588,0.0,0.0
+"Pasien mengalami demam tinggi, batuk dan pilek sejak 2 hari lalu. Pasien didiagnosis penyakit apa?","fever, unspecified","Berdasarkan gejala yang Anda sebutkan, pasien mengalami demam tinggi, batuk, dan pilek selama 2 hari. Gejala-gejala ini bisa disebabkan oleh berbagai kondisi, tetapi beberapa kemungkinan diagnosis yang paling umum adalah:
+
+1. Infeksi saluran pernapasan akut (ISPA):
+   - Ini adalah penyebab paling umum untuk gejala seperti ini.
+   - Biasanya disebabkan oleh virus, seperti rhinovirus atau coronavirus.
+
+2. Flu (influenza):
+   - Gejala mirip dengan ISPA, tetapi biasanya lebih parah.
+   - Demam biasanya lebih tinggi dan berlangsung lebih lama.
+
+3. COVID-19:
+   - Meskipun gejala awal mirip dengan ISPA atau flu, COVID-19 perlu dipertimbangkan terutama jika ada paparan potensial.
+
+4. Sinusitis:
+   - Infeksi sinus bisa menyebabkan demam, batuk, dan pilek.
+
+5. Bronkitis:
+   - Peradangan pada saluran udara bisa menyebabkan gejala serupa.
+
+Namun, penting untuk diingat bahwa diagnosis akurat memerlukan pemeriksaan medis langsung oleh dokter. Dokter akan mempertimbangkan:
+
+- Riwayat medis pasien
+- Pemeriksaan fisik
+- Gejala lain yang mungkin ada
+- Hasil tes laboratorium jika diperlukan
+
+Tanpa informasi lebih lanjut atau pemeriksaan langsung, tidak mungkin untuk memberikan diagnosis yang pasti. Jika gejala berlanjut atau memburuk, pasien sebaiknya segera berkonsultasi dengan tenaga medis.","Berdasarkan informasi yang diberikan, pasien mengalami demam tinggi, batuk, dan pilek selama 2 hari terakhir. Gejala ini bisa disebabkan oleh berbagai kondisi, namun tidak cukup untuk mendiagnosis penyakit tertentu seperti Tuberkulosis (TB) Paru. 
+
+Tuberkulosis Paru biasanya ditandai dengan gejala seperti batuk produktif yang berlangsung lebih dari 2 minggu, disertai dengan gejala pernapasan seperti nyeri dada, sesak napas, atau hemoptisis (batuk darah), serta gejala sistemik seperti demam, penurunan nafsu makan, penurunan berat badan, keringat malam, dan mudah lelah. 
+
+Gejala yang dialami pasien saat ini lebih cenderung menunjukkan kondisi seperti flu atau infeksi saluran pernapasan atas lainnya. Namun, untuk diagnosis yang akurat, pasien harus menjalani pemeriksaan medis lebih lanjut oleh dokter.",0.39779043,0.2800056,0.020920502092050212,0.031446540880503145
+"Pasien mengalami demam tinggi sejak sehari lalu yang tidak turun dengan obat penurun panas, batuk, pusing dan lemas. Pasien didiagnosis penyakit apa?",febris,"Berdasarkan gejala yang Anda sebutkan, ada beberapa kemungkinan diagnosis yang perlu dipertimbangkan. Namun, penting untuk diingat bahwa diagnosis akurat hanya dapat dibuat oleh dokter setelah pemeriksaan fisik dan tes medis yang tepat. Beberapa kemungkinan kondisi yang mungkin terjadi meliputi:
+
+1. Infeksi virus (seperti flu atau COVID-19):
+   - Demam tinggi yang berlangsung
+   - Batuk
+   - Pusing
+   - Lemas
+
+2. Pneumonia:
+   - Demam tinggi
+   - Batuk (mungkin dengan dahak)
+   - Lemas
+   - Sesak napas (mungkin)
+
+3. Infeksi bakteri:
+   - Demam tinggi yang tidak merespons terhadap obat penurun panas
+   - Batuk
+   - Lemas
+
+4. Malaria (jika pasien tinggal atau baru saja kembali dari daerah endemik):
+   - Demam tinggi yang berulang
+   - Lemas
+   - Pusing
+
+5. Infeksi saluran pernapasan akut:
+   - Demam
+   - Batuk
+   - Pusing
+   - Lemas
+
+Langkah-langkah yang harus diambil:
+
+1. Segera bawa pasien ke dokter atau rumah sakit terdekat untuk pemeriksaan medis.
+2. Jelaskan semua gejala dan riwayat penyakit pasien kepada dokter.
+3. Ikuti saran dokter untuk tes lebih lanjut jika diperlukan.
+4. Pastikan pasien istirahat cukup dan minum banyak cairan.
+
+Ingat, demam tinggi yang berlangsung dan tidak merespons terhadap obat penurun panas adalah kondisi yang serius dan memerlukan perhatian medis segera. Jangan menunda untuk mencari bantuan medis profesional.","Berdasarkan gejala yang disebutkan, pasien mengalami demam tinggi yang tidak turun dengan obat penurun panas, batuk, pusing, dan lemas. Gejala ini bisa disebabkan oleh berbagai kondisi medis, termasuk infeksi virus atau bakteri, seperti flu, pneumonia, atau bahkan tuberkulosis. Namun, tanpa informasi lebih lanjut atau hasil pemeriksaan medis, sulit untuk menentukan diagnosis yang tepat.
+
+Dalam konteks informasi yang diberikan, gejala seperti demam, batuk, dan lemas bisa menjadi indikasi awal dari penyakit tuberkulosis (TB) paru. Namun, perlu diingat bahwa diagnosis TB paru biasanya melibatkan gejala yang lebih spesifik dan berlangsung lebih lama, seperti batuk produktif yang berlangsung lebih dari 2 minggu, disertai dengan gejala pernapasan seperti nyeri dada, sesak napas, atau hemoptisis, serta gejala sistemik seperti demam, penurunan berat badan, dan keringat malam.
+
+Jadi, meskipun gejala yang disebutkan bisa menjadi tanda awal dari beberapa kondisi, termasuk TB paru, penting untuk melakukan pemeriksaan medis lebih lanjut untuk menentukan diagnosis yang tepat. Pemeriksaan ini bisa meliputi anamnesis, pemeriksaan fisik, dan pemeriksaan penunjang seperti pemeriksaan sputum, tes tuberkulin, dan radiologi dada.",0.013663311,-0.08468659,0.0,0.0
+"Pasien mengalami demam dan sudah berobat. #Hasil pemeriksaan S =  39,2 °C, RR = 22 brpm, N = 88 bpm. Pasien didiagnosis penyakit apa?",Febris,"Berdasarkan informasi yang diberikan, pasien mengalami demam dengan hasil pemeriksaan sebagai berikut:
+
+- Suhu tubuh (S): 39,2°C (demam tinggi)
+- Frekuensi pernapasan (RR): 22 kali per menit (normal untuk dewasa)
+- Frekuensi denyut jantung (N): 88 kali per menit (normal untuk dewasa)
+
+Dari data ini saja, kita tidak dapat menentukan diagnosis spesifik penyakit yang diderita pasien. Demam adalah gejala yang dapat disebabkan oleh berbagai kondisi medis, termasuk:
+
+1. Infeksi (virus, bakteri, jamur, atau parasit)
+2. Reaksi peradangan
+3. Penyakit autoimun
+4. Kanker tertentu
+5. Reaksi terhadap vaksin atau obat
+
+Untuk menentukan diagnosis yang tepat, diperlukan informasi tambahan seperti:
+
+1. Riwayat medis pasien
+2. Gejala lain yang dialami pasien
+3. Hasil pemeriksaan fisik yang lebih detail
+4. Hasil pemeriksaan laboratorium atau radiologi jika diperlukan
+
+Tanpa informasi tambahan ini, kita hanya dapat menyimpulkan bahwa pasien mengalami demam tinggi yang mungkin disebabkan oleh berbagai kondisi. Pasien perlu mendapatkan evaluasi medis lebih lanjut untuk menentukan penyebab pasti demamnya dan mendapatkan pengobatan yang tepat.","Berdasarkan informasi yang diberikan, tidak ada cukup bukti untuk menentukan diagnosis pasti pasien. Demam, yang ditunjukkan oleh suhu tubuh 39,2 °C, adalah gejala umum yang dapat disebabkan oleh berbagai kondisi medis, termasuk infeksi, peradangan, dan kondisi lainnya. 
+
+Namun, jika kita menghubungkan dengan konteks informasi yang diberikan tentang Tuberkulosis (TB) Paru, demam adalah salah satu gejala sistemik yang dapat terjadi pada pasien TB Paru. Gejala lain yang disebutkan termasuk tidak nafsu makan, penurunan berat badan, keringat malam, dan mudah lelah. 
+
+Tetapi, untuk diagnosis yang akurat, diperlukan informasi lebih lanjut seperti hasil anamnesis, pemeriksaan fisik, dan pemeriksaan penunjang lainnya. Selain itu, perlu juga diperhatikan bahwa demam juga bisa disebabkan oleh kondisi medis lainnya, bukan hanya TB Paru. 
+
+Jadi, meskipun demam bisa menjadi salah satu gejala TB Paru, kita tidak bisa langsung menyimpulkan bahwa pasien menderita TB Paru hanya berdasarkan demam. Diagnosis harus didasarkan pada evaluasi klinis dan pemeriksaan diagnostik yang tepat.",-0.023516366,-0.032828692,0.0,0.0
+"Pasien demam tinggi sejak 2 hari lalu, badan linu dan kepala terasa berat dan lemas.","Fever,unspecified","Berdasarkan gejala yang Anda sebutkan, pasien mungkin mengalami infeksi virus atau bakteri. Berikut beberapa kemungkinan kondisi medis yang perlu dipertimbangkan:
+
+1. Demam biasa: Demam adalah respons tubuh terhadap infeksi atau peradangan. Jika demam tinggi berlangsung selama 2 hari, pasien mungkin mengalami infeksi yang lebih serius.
+
+2. Flu: Gejala flu meliputi demam tinggi, badan linu, sakit kepala, dan lemas. Flu biasanya disebabkan oleh virus influenza.
+
+3. Infeksi bakteri: Infeksi bakteri seperti pneumonia atau infeksi saluran pernapasan akut juga dapat menyebabkan demam tinggi, badan linu, dan sakit kepala.
+
+4. Malaria: Jika pasien baru saja kembali dari daerah endemik malaria, demam tinggi, badan linu, dan sakit kepala dapat menjadi gejala malaria.
+
+5. Demam berdarah: Jika pasien tinggal di daerah endemik demam berdarah, demam tinggi, badan linu, dan sakit kepala dapat menjadi gejala demam berdarah.
+
+Pasien perlu segera mengunjungi dokter untuk mendapatkan diagnosis yang tepat dan pengobatan yang sesuai. Sementara itu, pasien dapat mengonsumsi obat penurun demam seperti paracetamol atau ibuprofen untuk mengurangi demam dan mengurangi rasa sakit. Pasien juga perlu banyak istirahat dan minum air putih yang cukup untuk menghindari dehidrasi.","Berdasarkan informasi yang Anda berikan, gejala yang dialami pasien seperti demam tinggi, badan linu, kepala terasa berat dan lemas, bisa menjadi indikasi dari berbagai kondisi kesehatan. Namun, berdasarkan konteks informasi yang diberikan, gejala tersebut tidak secara langsung menunjukkan adanya indikasi tuberkulosis (TB) paru. 
+
+Tuberkulosis paru biasanya ditandai dengan gejala seperti batuk produktif yang berlangsung lebih dari 2 minggu, disertai dengan gejala pernapasan seperti nyeri dada, sesak napas, atau hemoptisis (batuk darah), serta gejala sistemik seperti demam, tidak nafsu makan, penurunan berat badan, keringat malam, dan mudah lelah. 
+
+Namun, demam tinggi yang berlangsung sejak 2 hari lalu, badan linu, kepala terasa berat dan lemas, bisa menjadi gejala dari berbagai kondisi kesehatan lainnya seperti flu, demam berdarah, atau kondisi kesehatan lainnya. 
+
+Oleh karena itu, sangat penting untuk melakukan pemeriksaan medis lebih lanjut untuk mengetahui penyebab pasti dari gejala yang dialami pasien. Jika gejala tersebut berlanjut atau memburuk, sebaiknya segera menghubungi profesional kesehatan untuk mendapatkan penanganan yang tepat.",0.37471586,0.17773013,0.021186440677966104,0.023364485981308414
+"Pasien demam, lemas dan pusing. Sudah mengkonsumsi obat penurun panas. #Hasil pemeriksaan N= 117 bpm, RR= 20 brpm. Pasien didiagnosis penyakit apa?","Fever, unspecified","Berdasarkan informasi yang diberikan, pasien mengalami demam, lemas, dan pusing. Pasien juga telah mengonsumsi obat penurun panas. Hasil pemeriksaan menunjukkan bahwa denyut nadi (N) adalah 117 bpm (kali per menit) dan frekuensi pernapasan (RR) adalah 20 kali per menit.
+
+Dari gejala dan hasil pemeriksaan tersebut, pasien mungkin mengalami kondisi yang disebut demam tifoid. Demam tifoid adalah infeksi bakteri yang disebabkan oleh Salmonella typhi. Gejala umum dari demam tifoid meliputi demam tinggi, sakit kepala, lemas, dan mual. Denyut nadi yang cepat (117 bpm) dan frekuensi pernapasan yang normal (20 kali per menit) juga dapat terjadi pada pasien dengan demam tifoid.
+
+Namun, perlu diingat bahwa diagnosis akurat harus dilakukan oleh dokter atau profesional kesehatan yang mempertimbangkan berbagai faktor lain seperti riwayat medis pasien, hasil pemeriksaan fisik, dan hasil tes laboratorium. Jadi, sebaiknya pasien segera berkonsultasi dengan dokter untuk mendapatkan diagnosis yang tepat dan perawatan yang sesuai.","Berdasarkan informasi yang diberikan, tidak ada cukup bukti untuk mendiagnosis pasien dengan penyakit tertentu. Gejala seperti demam, lemas, dan pusing bisa disebabkan oleh berbagai kondisi medis. 
+
+Beberapa kemungkinan yang perlu dipertimbangkan:
+
+1. Infeksi ringan: Demam dan gejala umum seperti lemas dan pusing bisa disebabkan oleh infeksi ringan seperti flu atau pilek.
+
+2. Dehidrasi: Kondisi ini bisa menyebabkan gejala seperti pusing dan lemas.
+
+3. Stres atau kelelahan: Kondisi fisik dan mental ini juga bisa menyebabkan gejala serupa.
+
+4. Reaksi terhadap obat: Pasien telah mengonsumsi obat penurun panas, yang bisa memiliki efek samping.
+
+Namun, perlu diingat bahwa diagnosis yang tepat memerlukan informasi lebih lanjut, termasuk riwayat medis pasien, pemeriksaan fisik yang lebih mendalam, dan mungkin pemeriksaan penunjang.
+
+Frekuensi nadi (N=117 bpm) dan frekuensi pernapasan (RR=20 brpm) yang disebutkan berada dalam batas normal untuk orang dewasa. Namun, tanpa konteks lebih lanjut, sulit untuk menarik kesimpulan.
+
+Untuk diagnosis yang akurat, pasien harus diperiksa oleh tenaga medis profesional yang dapat melakukan evaluasi komprehensif dan mungkin merujuk untuk pemeriksaan lebih lanjut jika diperlukan.",0.22189833,0.17789112,0.02487562189054727,0.022321428571428572
+"Klien pingsan kemudian sadar tapi mengalami pusing, mual dan muntah. Sudah minum obat. #Hasil pemeriksaan TD = 138/98 mmHg, RR =  20 bpm, N =  76 brpm. Pasien didiagnosis penyakit apa?",Syncope and collapse,"Berdasarkan informasi yang diberikan, pasien mengalami pingsan, pusing, mual, dan muntah. Hasil pemeriksaan menunjukkan tekanan darah (TD) 138/98 mmHg, frekuensi nadi (RR) 20 bpm, dan frekuensi nadi (N) 76 brpm. Pasien telah minum obat.
+
+Dari data tersebut, beberapa kemungkinan diagnosis yang dapat dipertimbangkan adalah:
+
+1. Hipertensi: TD yang tinggi (138/98 mmHg) menunjukkan adanya hipertensi. Hipertensi dapat menyebabkan pusing, mual, dan muntah.
+
+2. Hipotensi ortostatik: Meskipun TD pasien tinggi, pingsan yang dialami pasien dapat disebabkan oleh hipotensi ortostatik, yaitu penurunan tekanan darah saat berdiri atau berubah posisi. Hal ini dapat menyebabkan pusing, mual, dan muntah.
+
+3. Dehidrasi: Mual dan muntah dapat menyebabkan dehidrasi, yang dapat menyebabkan pusing dan pingsan.
+
+4. Infeksi: Infeksi dapat menyebabkan gejala seperti pusing, mual, dan muntah. Infeksi dapat menyebabkan peningkatan frekuensi nadi dan tekanan darah.
+
+5. Gangguan otak: Gangguan otak seperti stroke atau tumor otak dapat menyebabkan gejala seperti pusing, mual, dan muntah.
+
+Namun, untuk menentukan diagnosis yang tepat, diperlukan pemeriksaan lebih lanjut seperti pemeriksaan fisik, pemeriksaan laboratorium, dan pemeriksaan radiologi. Pasien juga perlu dianamnesis untuk mengetahui riwayat penyakit, obat-obatan yang dikonsumsi, dan faktor risiko lainnya.","Berdasarkan informasi yang diberikan, tidak ada cukup bukti untuk mendiagnosis pasien dengan penyakit tertentu. Gejala seperti pingsan, pusing, mual, dan muntah dapat disebabkan oleh berbagai kondisi medis, termasuk dehidrasi, hipotensi ortostatik, hipoglikemia, atau masalah lainnya. Tekanan darah (TD) 138/98 mmHg, frekuensi nadi (N) 76 brpm, dan frekuensi pernapasan (RR) 20 bpm juga tidak menunjukkan adanya kondisi medis yang serius. Namun, penting untuk mempertimbangkan riwayat medis pasien, hasil pemeriksaan fisik, dan pemeriksaan penunjang lainnya untuk menegakkan diagnosis yang tepat. Jika gejala berlanjut atau memburuk, pasien harus segera diperiksa oleh dokter untuk menentukan penyebab dan mendapatkan perawatan yang tepat.",-0.008549487,0.001057691,0.0,0.0
+Pasien terjatuh saat memperbaiki atap rumah dan mengalami benturan kepala yang mengakibatkan luka robek di kepala. Pasien dibawa ke Klinik Asshomaditah satu jam sesudahnya. Pasien didiagnosis penyakit apa?,Open wound of head,"Berdasarkan informasi yang diberikan, pasien mengalami cedera kepala akibat jatuh saat memperbaiki atap rumah. Luka robek di kepala yang terjadi bisa menjadi indikasi dari beberapa kondisi medis, tetapi tanpa informasi lebih lanjut seperti gejala lain yang mungkin dialami pasien, hasil pemeriksaan fisik, atau hasil pemeriksaan penunjang, sulit untuk memberikan diagnosis yang pasti.
+
+Namun, beberapa kemungkinan kondisi medis yang mungkin terjadi pada pasien tersebut adalah:
+
+1. Luka Robek (Laceration): Luka robek di kepala yang terjadi akibat benturan bisa menjadi kondisi utama yang perlu ditangani. Luka tersebut perlu dibersihkan dan dijahit jika diperlukan untuk mencegah infeksi dan mempercepat proses penyembuhan.
+
+2. Cedera Kepala Ringan (Minor Head Injury): Pasien mungkin mengalami cedera kepala ringan yang bisa menyebabkan pusing, sakit kepala, atau mual. Pemeriksaan fisik dan observasi pasien selama beberapa jam mungkin diperlukan untuk memastikan tidak ada komplikasi serius.
+
+3. Guncangan Otak (Concussion): Jika pasien mengalami pingsan atau hilang kesadaran sejenak setelah jatuh, kemungkinan terjadinya guncangan otak perlu dipertimbangkan. Gejala lain yang mungkin terjadi adalah pusing, sakit kepala, mual, atau kesulitan berkonsentrasi. Pemeriksaan neurologis dan observasi pasien selama beberapa hari mungkin diperlukan untuk memastikan tidak ada komplikasi serius.
+
+4. Cedera Kepala Serius (Serious Head Injury): Jika pasien mengalami gejala seperti hilang kesadaran yang berkepanjangan, perubahan perilaku yang signifikan, muntah berulang, atau kelemahan pada salah satu sisi tubuh, kemungkinan terjadinya cedera kepala serius perlu dipertimbangkan. Pemeriksaan CT scan atau MRI mungkin diperlukan untuk mengevaluasi kondisi pasien lebih lanjut.
+
+Penting untuk diingat bahwa diagnosis yang tepat hanya dapat diberikan oleh tenaga medis yang memeriksa pasien secara langsung. Jika pasien mengalami cedera kepala, sebaiknya segera membawa pasien ke fasilitas kesehatan terdekat untuk mendapatkan penanganan yang tepat.","Berdasarkan informasi yang diberikan, pasien tersebut mengalami cedera kepala akibat jatuh saat memperbaiki atap rumah. Pasien mengalami luka robek di kepala dan dibawa ke klinik satu jam setelah kejadian.
+
+Dalam situasi ini, pasien tidak didiagnosis dengan penyakit tertentu seperti yang dijelaskan dalam konteks tuberkulosis yang Anda berikan. Sebaliknya, pasien mungkin didiagnosis dengan kondisi medis yang berkaitan dengan cedera kepala, seperti:
+
+1. Luka robek (laceration): Ini adalah jenis luka yang terjadi karena robekan pada kulit, biasanya disebabkan oleh kekuatan yang cukup besar yang membelah jaringan.
+
+2. Cedera kepala ringan: Jika pasien tidak menunjukkan gejala serius seperti hilang kesadaran, muntah berulang, atau perubahan perilaku, mungkin didiagnosis dengan cedera kepala ringan.
+
+3. Kontusio: Jika ada perdarahan di bawah kulit atau jaringan lunak kepala, pasien mungkin didiagnosis dengan kontusio.
+
+4. Fraktur kranium: Jika ada kemungkinan tulang tengkorak retak atau pecah, pasien mungkin perlu diperiksa lebih lanjut untuk memastikan tidak ada fraktur.
+
+Diagnosis spesifik akan tergantung pada hasil pemeriksaan fisik, gejala pasien, dan mungkin pemeriksaan penunjang seperti rontgen atau CT scan kepala. Penting untuk mengevaluasi dengan hati-hati untuk memastikan tidak ada cedera serius pada otak atau struktur kepala lainnya.",0.10085506,0.17090051,0.014367816091954025,0.0
+Pasien mengalami luka robek di siku tangan kanan karena jatuh dan terkena keramik saat bermain air. Terasa nyeri dan berdarah. Pasien didiagnosis penyakit apa?,"Open wound of neck, part unspecified","Berdasarkan informasi yang diberikan, pasien mengalami luka robek di siku tangan kanan akibat jatuh dan terkena keramik saat bermain air. Luka tersebut disertai dengan nyeri dan pendarahan. Dalam situasi ini, pasien tidak didiagnosis dengan penyakit tertentu, melainkan mengalami cedera atau luka akibat kecelakaan.
+
+Diagnosis yang tepat untuk kondisi ini adalah:
+
+1. Luka robek (laceration) di siku tangan kanan
+
+2. Cedera akibat trauma (traumatic injury)
+
+3. Luka tajam (sharp force injury) akibat keramik
+
+Penanganan yang diperlukan untuk kondisi ini biasanya meliputi:
+
+1. Pembersihan luka untuk mencegah infeksi
+2. Penjahitan jika luka cukup dalam atau lebar
+3. Pemberian antibiotik topikal atau oral jika diperlukan
+4. Pemberian vaksin tetanus jika pasien belum mendapatkannya dalam 5-10 tahun terakhir
+5. Pengendalian nyeri dengan obat pereda nyeri
+6. Perawatan luka dan penggantian dressing secara berkala
+
+Penting untuk memantau tanda-tanda infeksi seperti pembengkakan, kemerahan, nanah, atau demam. Jika ada komplikasi atau tidak ada perbaikan dalam beberapa hari, pasien harus kembali ke dokter untuk evaluasi lebih lanjut.
+
+Ingatlah bahwa diagnosis dan penanganan yang tepat harus dilakukan oleh tenaga medis profesional setelah pemeriksaan langsung pada pasien.","Berdasarkan informasi yang diberikan, pasien mengalami luka robek di siku tangan kanan karena jatuh dan terkena keramik saat bermain air. Gejala yang dialami adalah nyeri dan berdarah. 
+
+Dalam konteks ini, pasien tidak didiagnosis dengan penyakit tertentu, melainkan mengalami cedera atau luka. Secara medis, kondisi ini dapat disebut sebagai ""luka robek"" atau ""laceration"" pada siku tangan kanan. 
+
+Luka robek adalah jenis luka yang terjadi akibat jaringan kulit dan jaringan di bawahnya terbelah atau terpotong. Luka ini biasanya disebabkan oleh kecelakaan atau trauma, seperti yang dialami oleh pasien dalam kasus ini.
+
+Penting untuk mengetahui bahwa luka robek perlu ditangani dengan tepat untuk mencegah infeksi dan memastikan penyembuhan yang baik. Penanganan awal biasanya melibatkan pembersihan luka, pemberian obat antiseptik, dan penutupan luka dengan perban atau plester. Jika luka cukup dalam atau luas, mungkin diperlukan jahitan medis.
+
+Namun, jika pasien mengalami gejala lain yang tidak disebutkan dalam informasi yang diberikan, seperti demam, pembengkakan yang berlebihan, atau tidak ada perbaikan setelah beberapa hari, pasien harus segera mendapatkan perawatan medis lebih lanjut.",0.2641457,0.18307693,0.01915708812260537,0.019531250000000003
+Pasien jatuh di halaman rumah waktu men-starter motor. Pasien didiagnosis penyakit apa?,Superficial Injury of wrist and hand,"Berdasarkan informasi yang diberikan, tidak ada cukup detail untuk menentukan diagnosis penyakit spesifik. Jatuh saat men-starter motor bisa disebabkan oleh berbagai faktor, baik medis maupun non-medis. Beberapa kemungkinan yang perlu dipertimbangkan:
+
+1. Masalah keseimbangan atau koordinasi motorik:
+   - Vertigo atau gangguan vestibular
+   - Parkinson atau gangguan gerakan lainnya
+   - Stroke atau kondisi neurologis lainnya
+
+2. Masalah kardiovaskular:
+   - Hipotensi ortostatik (tekanan darah rendah saat berdiri)
+   - Arritmia jantung
+
+3. Faktor non-medis:
+   - Kesalahan teknis saat men-starter motor
+   - Kondisi lingkungan (lantai licin, terlalu banyak gangguan)
+   - Kekurangan tidur atau kelelahan
+
+4. Masalah penglihatan:
+   - Kurangnya visibilitas atau gangguan penglihatan
+
+5. Penggunaan obat-obatan:
+   - Efek samping obat yang menyebabkan pusing atau kehilangan keseimbangan
+
+Untuk menentukan diagnosis yang tepat, diperlukan pemeriksaan medis komprehensif yang meliputi:
+- Riwayat medis lengkap
+- Pemeriksaan fisik
+- Tes laboratorium dan radiologi jika diperlukan
+- Evaluasi oleh dokter spesialis jika diperlukan
+
+Tanpa informasi lebih lanjut tentang kondisi pasien, seperti hipotensi ortostatik atau hipoglikemia. Pasien juga mungkin mengalami masalah keseimbangan atau koordinasi motorik yang disebabkan oleh kondisi neurologis seperti stroke atau penyakit Parkinson.","Berdasarkan informasi yang Anda berikan, tidak ada kaitan antara jatuh saat men-starter motor dan penyakit Tuberkulosis (TB) Paru yang dibahas dalam teks tersebut. Jatuh saat men-starter motor lebih mungkin mengarah pada cedera fisik seperti luka, patah tulang, atau trauma lainnya, tergantung pada bagaimana dan seberapa keras pasien jatuh.
+
+Untuk menentukan diagnosis yang tepat, diperlukan informasi lebih lanjut tentang gejala yang dialami pasien setelah jatuh, seperti:
+
+1. Apakah ada luka atau pendarahan?
+2. Apakah ada nyeri pada area tertentu?
+3. Apakah ada kesulitan bergerak atau berjalan?
+4. Apakah ada perubahan kesadaran atau pusing?
+5. Apakah ada gejala lain yang muncul setelah kejadian?
+
+Tanpa informasi lebih lanjut, tidak mungkin untuk memberikan diagnosis yang akurat. Jika pasien mengalami jatuh, sebaiknya segera mendapatkan perawatan medis untuk mengevaluasi kemungkinan cedera dan mendapatkan penanganan yang tepat.",0.15310846,0.10778701,0.0,0.0
+Pasien jatuh dari kasur waktu bangun tidur di kamar karena kepala terasa pusing dan berputar seperti ada gempa. Lutut tergores ujung tempat tidur kayu. Pasien didiagnosis penyakit apa?,Superficial injury of lower leg,"Berdasarkan gejala yang Anda sebutkan, pasien mungkin mengalami salah satu kondisi berikut:
+
+1. Vertigo: Ini adalah sensasi berputar atau bergerak yang tidak ada hubungannya dengan pergerakan sebenarnya. Vertigo sering disebabkan oleh masalah pada sistem vestibular (bagian telinga dalam yang mengatur keseimbangan).
+
+2. Sindrom Benign Paroxysmal Positional Vertigo (BPPV): Kondisi ini menyebabkan pusing yang tiba-tiba dan intens saat berubah posisi kepala, seperti saat bangun tidur.
+
+3. Labirinitis atau Neuritis Vestibular: Peradangan pada telinga dalam yang mengontrol keseimbangan.
+
+4. Meniere's Disease: Kondisi yang mempengaruhi telinga dalam dan dapat menyebabkan pusing yang parah, tinnitus (denging di telinga), dan hilangnya keseimbangan.
+
+5. Hipotensi Ortostatik: Penurunan tekanan darah saat berdiri atau duduk dengan cepat, yang dapat menyebabkan pusing dan hilang keseimbangan.
+
+6. Hipertensi atau Hipotensi: Perubahan tekanan darah yang tiba-tiba dapat menyebabkan pusing dan hilang keseimbangan.
+
+7. Stroke atau TIA (Transient Ischemic Attack): Meskipun jarang, gejala ini bisa menjadi tanda awal.
+
+Namun, diagnosis akurat memerlukan pemeriksaan medis yang tepat. Gejala seperti pusing dan hilang keseimbangan bisa menjadi tanda kondisi ini.
+
+7. Gangguan Neurologis: Beberapa kondisi neurologis juga bisa menyebabkan gejala seperti yang dijelaskan.
+
+8. Gangguan Neurologis lainnya: Misalnya, penyakit Parkinson atau Multiple Sclerosis.
+
+9. Gangguan Kardiovaskular: Seperti hipotensi ortostatik atau penyakit jantung lainnya.
+
+10. Gangguan Psikologis: Seperti anxiety atau panic attack juga bisa menyebabkan gejala serupa.
+
+Luka pada lutut akibat jatuh mungkin tidak terkait langsung dengan pusing dan berputar, tetapi perlu diperiksa untuk memastikan tidak ada cedera serius akibat jatuh.
+
+Pasien harus segera diperiksa oleh dokter untuk menentukan penyebab pasti dan mendapatkan perawatan yang tepat. Jika gejala berlanjut atau memburuk, pasien harus segera diperiksa oleh dokter untuk menentukan penyebab pasti dan mendapatkan perawatan yang tepat.","Berdasarkan informasi yang diberikan, pasien mengalami pusing dan berputar saat bangun tidur, yang kemudian menyebabkan jatuh dari kasur. Lututnya tergores akibat jatuh tersebut. Gejala pusing dan berputar seperti ada gempa yang dialami pasien mungkin menunjukkan kondisi medis tertentu. Namun, informasi yang diberikan tidak cukup untuk menentukan diagnosis pasti.
+
+Beberapa kondisi yang mungkin terkait dengan gejala tersebut antara lain:
+
+1. Vertigo: Kondisi ini ditandai dengan rasa berputar atau pusing yang parah. Vertigo dapat disebabkan oleh berbagai faktor, seperti masalah pada telinga dalam, migrain, atau kondisi medis lainnya.
+
+2. Hipotensi ortostatik: Kondisi ini terjadi ketika tekanan darah turun secara tiba-tiba saat berdiri atau bangun dari posisi duduk atau tidur. Hal ini dapat menyebabkan pusing atau pingsan.
+
+3. Dehidrasi: Kekurangan cairan dalam tubuh dapat menyebabkan pusing dan kelemahan.
+
+4. Kondisi medis lainnya: Gejala pusing dan berputar juga dapat disebabkan oleh kondisi medis lainnya, seperti anemia, hipoglikemia, atau masalah pada sistem saraf.
+
+Namun, untuk menentukan diagnosis pasti, diperlukan pemeriksaan medis lebih lanjut oleh dokter. Dokter akan melakukan anamnesis, pemeriksaan fisik, dan mungkin pemeriksaan penunjang untuk mengetahui penyebab pasti gejala yang dialami pasien. Selain itu, luka pada lutut yang tergores juga perlu ditangani dengan tepat untuk mencegah infeksi.",0.081529096,0.062615946,0.0,0.0
+Pasien mengalami luka lecet karena terjatuh. Pasien didiagnosis penyakit apa?,superficial injury,"Pasien yang mengalami luka lecet karena terjatuh tidak secara langsung didiagnosis dengan penyakit tertentu. Luka lecet adalah kondisi yang terjadi akibat trauma fisik, dalam hal ini terjatuh. Namun, ada beberapa hal yang perlu dipertimbangkan:
+
+1. Luka lecet itu sendiri: Ini adalah kondisi yang umum dan biasanya tidak memerlukan diagnosis khusus. Dokter mungkin akan memberikan penanganan luka dan nasihat tentang perawatan luka.
+
+2. Penyebab terjatuh: Dokter mungkin akan menanyakan tentang kondisi yang menyebabkan pasien terjatuh. Jika terjatuh disebabkan oleh kondisi medis tertentu, seperti pusing, vertigo, atau masalah keseimbangan, maka kondisi tersebut mungkin perlu didiagnosis.
+
+3. Komplikasi: Jika luka lecet disertai dengan gejala lain seperti pendarahan yang berlebihan, pembengkakan yang parah, atau tidak sembuh dalam waktu yang wajar, mungkin ada kondisi medis lain yang perlu didiagnosis.
+
+4. Riwayat medis: Jika pasien memiliki riwayat medis tertentu, seperti gangguan pembekuan darah atau penyakit kulit, ini mungkin mempengaruhi penanganan luka lecet.
+
+5. Infeksi: Jika luka lecet terinfeksi, pasien mungkin didiagnosis dengan infeksi luka dan memerlukan pengobatan antibiotik.
+
+Jadi, dalam kasus ini, pasien tidak didiagnosis dengan penyakit tertentu hanya karena luka lecet. Namun, dokter mungkin akan melakukan evaluasi lebih lanjut untuk memastikan tidak ada kondisi medis lain yang terkait atau disebabkan oleh kejadian tersebut.",B,0.20859182,0.10229268,0.0,0.0
+Pasien terkena petasan di tangan kiri. Pasien didiagnosis penyakit apa?,"Burn of first degree, body region unspecified","Pasien yang terkena petasan di tangan kiri tidak secara langsung didiagnosis dengan penyakit tertentu. Namun, kondisi tersebut dapat menyebabkan cedera atau luka yang perlu ditangani. Beberapa kemungkinan kondisi yang mungkin terjadi antara lain:
+
+1. Luka bakar: Petasan dapat menyebabkan luka bakar pada tangan, mulai dari luka bakar ringan hingga luka bakar yang lebih serius.
+
+2. Luka tajam: Jika petasan meledak dan menghasilkan pecahan, pasien mungkin mengalami luka tajam atau luka sayatan.
+
+3. Fraktur: Ledakan petasan yang kuat dapat menyebabkan fraktur tulang pada jari atau tangan.
+
+4. Kerusakan saraf: Ledakan dapat merusak saraf di tangan, menyebabkan kehilangan sensasi atau fungsi motorik.
+
+5. Kerusakan pembuluh darah: Ledakan dapat merusak pembuluh darah, menyebabkan perdarahan atau gangguan sirkulasi.
+
+6. Trauma psikologis: Selain cedera fisik, pasien mungkin juga mengalami trauma psikologis akibat kejadian tersebut.
+
+Diagnosis spesifik akan ditentukan oleh dokter setelah melakukan pemeriksaan fisik, mengevaluasi tingkat keparahan cedera, dan mungkin melakukan pemeriksaan tambahan seperti X-ray atau MRI jika diperlukan. Pengobatan akan disesuaikan dengan jenis dan tingkat keparahan cedera yang dialami pasien.","Berdasarkan informasi yang Anda berikan, tidak ada kaitan antara petasan yang meledak di tangan kiri dengan penyakit Tuberkulosis (TB) yang dijelaskan dalam teks tersebut. Teks tersebut berfokus pada panduan praktik klinis untuk diagnosis dan penanganan Tuberkulosis, bukan tentang cedera akibat ledakan petasan.
+
+Jika pasien mengalami ledakan petasan di tangan kiri, maka pasien mungkin mengalami cedera akibat ledakan tersebut, seperti luka bakar, luka sayat, atau bahkan kerusakan jaringan yang lebih serius. Diagnosis yang tepat akan bergantung pada hasil pemeriksaan fisik dan penunjang yang dilakukan oleh dokter.
+
+Namun, jika Anda mencari informasi tentang bagaimana menangani cedera akibat ledakan petasan, Anda mungkin perlu mencari sumber lain yang lebih relevan dengan topik tersebut.",-0.01753797,0.1642734,0.019011406844106467,0.025510204081632654
