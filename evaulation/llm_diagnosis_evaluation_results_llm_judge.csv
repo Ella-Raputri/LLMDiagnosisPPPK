@@ -1,0 +1,181 @@
+LLM,No,Best_Score,Match,Category,Reasoning
+Qwen 2.5 72B,1,0.0,False,unknown,No reasoning provided
+Qwen 2.5 72B,2,1.0,True,correct,The candidate answer 'gastroenteritis' perfectly matches the ground truth diagnosis of 'gastroenteritis ge akut'.
+Qwen 2.5 72B,3,1.0,True,correct,The candidate answer 'demam dengue' is a perfect match with the ground truth 'dbd' which stands for Demam Berdarah Dengue.
+Qwen 2.5 72B,4,0.5,False,partial,The candidate answer 'infeksi lokal' is partially correct as it acknowledges the presence of infection but does not specify the systemic nature of the infection as indicated in the ground truth.
+Qwen 2.5 72B,5,1.0,True,correct,The candidate answer 'infark miokard akut serangan jantung' is a perfect match with the ground truth answers 'infark miokard akut serangan jantung'.
+Qwen 2.5 72B,6,1.0,True,correct,The candidate answer 'asma' is a perfect match with the ground truth diagnosis of asma.
+Qwen 2.5 72B,7,0.5,False,partial,"The candidate answer is partially correct as it mentions an upper respiratory tract infection (ISPA), which is related to bronchitis. However, it does not specifically mention acute bronchitis as the ground truth does."
+Qwen 2.5 72B,8,0.5,False,partial,"The candidate answer 'asma' is partially correct as it is related to the ground truth of 'asma bronkial', but the ground truth also includes 'bronkitis akut' which was not mentioned in the candidate answer."
+Qwen 2.5 72B,9,1.0,True,correct,The candidate answer 'dispepsia' matches the ground truth answer 'dispepsia' perfectly.
+Qwen 2.5 72B,10,1.0,True,correct,"The candidate answer 'reflux asam lambung gerd' is a perfect match with the ground truth 'refluk gastroesofagus gerd'. Both refer to gastroesophageal reflux disease (GERD), which is characterized by symptoms such as heartburn, chest pain, and nausea."
+Qwen 2.5 72B,11,1.0,True,correct,The candidate answer 'gastroenteritis akut' perfectly matches the ground truth diagnosis of 'gastroenteritis akut'. The symptoms described in the question align with the diagnosis provided.
+Qwen 2.5 72B,12,0.5,False,partial,"The candidate answer 'batuk ginjal' is partially correct as it is close to the ground truth 'batu ginjal'. However, there is a spelling error in the candidate answer."
+Qwen 2.5 72B,13,1.0,True,correct,The candidate answer 'obstruksi usus' matches one of the ground truth answers perfectly.
+Qwen 2.5 72B,14,0.5,False,partial,"The candidate answer 'dispepsia' is partially correct as it is related to the symptoms described, but the ground truth also includes 'kolesistitis akut' which is not mentioned in the candidate answer."
+Qwen 2.5 72B,15,1.0,True,correct,The candidate answer 'apendisitis' is a correct match to the ground truth 'appendisitis akut'. The spelling difference does not affect the accuracy of the diagnosis.
+Qwen 2.5 72B,16,0.5,False,partial,"The candidate answer 'dispepsia fungsional' is related to the ground truth 'dispepsia' but adds the term 'fungsional'. While it is not an exact match, it is partially correct as it still relates to the digestive issue presented in the case."
+Qwen 2.5 72B,17,0.8,True,partial,"The candidate answer 'influenza' is partially correct as it matches one of the ground truth answers. However, the other possible diagnosis of 'infeksi saluran pernapasan atas' was not mentioned."
+Qwen 2.5 72B,18,0.5,False,partial,The candidate answer 'infeksi saluran pernapasan akut ispa' is related to the ground truth of 'infeksi saluran pernapasan atas' but does not specifically mention 'bronkitis'.
+Qwen 2.5 72B,19,0.5,False,partial,"The candidate answer 'infeksi saluran pernapasan akut ispa' is related to the ground truth of 'infeksi saluran pernapasan atas', but it is not an exact match. 'ISPA' stands for 'Infeksi Saluran Pernapasan Akut' which is a broader term that includes upper respiratory infections."
+Qwen 2.5 72B,20,0.8,True,partial,"The candidate answer is very closely related to the ground truth, with 'infeksi saluran pernapasan atas' being a specific type of respiratory infection within the upper respiratory tract."
+Qwen 2.5 72B,21,0.0,False,unknown,No reasoning provided
+Qwen 2.5 72B,22,0.0,False,unknown,No reasoning provided
+Qwen 2.5 72B,23,0.5,False,partial,"The candidate answer is partially correct as it mentions an upper respiratory tract infection (ISPA), which is related to the ground truth of a viral infection. However, it does not specifically match the ground truth answer of 'awal infeksi virus.'"
+Qwen 2.5 72B,24,0.0,False,unknown,No reasoning provided
+Qwen 2.5 72B,25,0.5,False,partial,"The candidate answer 'luka robek laceration' is partially correct as it correctly identifies the presence of a laceration on the head, but it does not specify the severity or location of the injury as indicated in the ground truth."
+Qwen 2.5 72B,26,0.5,False,partial,"The candidate answer 'luka robek laceration' is partially correct as it correctly identifies the type of injury as a laceration, but it does not include the specific location (siku tangan kanan) mentioned in the ground truth."
+Qwen 2.5 72B,27,1.0,True,correct,The candidate answer 'kepala cedera' directly corresponds to the ground truth 'post trauma' as it indicates a head injury resulting from the fall.
+Qwen 2.5 72B,28,0.5,False,partial,"The candidate answer correctly identifies vertigo as the diagnosis, but specifies a subtype (BPPV) which was not mentioned in the ground truth."
+Qwen 2.5 72B,29,0.5,False,partial,"The candidate answer 'luka lecet ringan' is related to the ground truth 'luka lecet vulnus excoriatum' as both refer to a minor abrasion or scrape. However, the candidate answer does not fully match the specific medical term provided in the ground truth."
+Qwen 2.5 72B,30,1.0,True,correct,The candidate answer 'luka bakar' perfectly matches the ground truth of 'burn injury'.
+Qwen 2.5 72B,31,1.0,True,correct,"The candidate answer 'demam biasa' matches the ground truth 'demam biasa'. Both refer to common fever, which is an appropriate diagnosis based on the symptoms provided."
+Qwen 2.5 72B,32,0.5,False,partial,The candidate answer 'infeksi saluran pernapasan atas ispa' is partially correct as it correctly identifies the upper respiratory tract infection (ISPA) but does not specifically mention influenza which is also a possible diagnosis based on the symptoms provided.
+Qwen 2.5 72B,33,0.5,False,partial,"The candidate answer 'infeksi saluran pencernaan akut' is related to the ground truth of gastroenteritis, but it does not cover the possibility of influenza which is also mentioned in the ground truth."
+Qwen 2.5 72B,34,0.5,False,partial,"The candidate answer 'infeksi saluran pernapasan atas ispa' is related to the ground truth 'infeksi saluran pernapasan atas', but the addition of 'ispa' is not specifically mentioned in the ground truth."
+Qwen 2.5 72B,35,0.5,False,partial,The candidate answer 'infeksi saluran pernapasan atas ispa' is related to the symptoms described but does not specifically match any of the ground truth diagnoses.
+Qwen 2.5 72B,36,0.5,False,partial,"The candidate answer 'infeksi saluran pernapasan atas ispa' is related to the ground truth 'infeksi saluran pernapasan atas', but the specific term 'ispa' was not mentioned in the ground truth."
+Qwen 2.5 72B,37,1.0,True,correct,The candidate answer 'gastroesophageal reflux disease gerd' is a perfect match with the ground truth answer 'refluks asam lambung gerd'. Both refer to the same condition.
+Qwen 2.5 72B,38,1.0,True,correct,The candidate answer 'gastritis akut' matches one of the ground truth answers perfectly.
+Qwen 2.5 72B,39,1.0,True,correct,The candidate answer 'dispepsia' matches one of the ground truth answers perfectly.
+Qwen 2.5 72B,40,0.5,False,partial,"The candidate answer is related to the ground truth as both involve upper abdominal pain and symptoms like nausea and vomiting. However, the candidate answer specifies 'functional dyspepsia' which is a specific type of dyspepsia, whereas the ground truth mentions 'dispepsia' without specifying the type. Therefore, it is a partial match."
+Qwen 2.5 72B,41,1.0,True,correct,The candidate answer 'asma exacerbation' is a perfect match with the ground truth 'asma bronkial'. Both refer to the same condition of asthma exacerbation.
+Qwen 2.5 72B,42,1.0,True,correct,The candidate answer 'gastroesophageal reflux disease gerd' is a perfect match with the ground truth 'refleks asam lambung gerd'. Both refer to the same condition.
+Qwen 2.5 72B,43,1.0,True,correct,"The candidate answer 'dispepsia' matches one of the ground truth answers, which is 'dispepsia'. It is a perfect match."
+Qwen 2.5 72B,44,0.0,False,unknown,No reasoning provided
+Qwen 2.5 72B,45,1.0,True,correct,The candidate answer 'asma exacerbation' is a perfect match with the ground truth 'asma bronkial'. Both refer to the same condition of asthma exacerbation.
+GPT-4o mini,1,1.0,True,correct,The candidate answer 'demam tifoid' matches the ground truth diagnosis of 'demam tifoid'. The symptoms described in the question align with the diagnosis of typhoid fever.
+GPT-4o mini,2,1.0,True,correct,The candidate answer 'gastroenteritis akut' perfectly matches the ground truth 'gastroenteritis ge akut'. The candidate answer is a correct and precise diagnosis.
+GPT-4o mini,3,1.0,True,correct,"The candidate answer 'demam berdarah dengue' is a perfect match with the ground truth 'dbd', which stands for 'demam berdarah'. The symptoms described in the question align with the diagnosis of dengue fever."
+GPT-4o mini,4,0.5,False,partial,"The candidate answer is partially correct as it mentions cellulitis, which is related to the ground truth diagnosis of 'infeksi jaringan lunak selulitis'. However, it does not include the possibility of a systemic bacterial or viral infection, which is also part of the ground truth diagnosis."
+GPT-4o mini,5,1.0,True,correct,The candidate answer 'angina pekrotis' is a perfect match with the ground truth 'angina pekrotis'. Both answers correctly identify the condition based on the symptoms described.
+GPT-4o mini,6,1.0,True,correct,"The candidate answer 'asma' matches the ground truth diagnosis of asma. The symptoms described in the case, such as wheezing, low SpO2, and respiratory rate >24 bpm during shortness of breath, are consistent with an asthma diagnosis."
+GPT-4o mini,7,1.0,True,correct,The candidate answer 'bronkitis akut' perfectly matches the ground truth diagnosis of 'bronkitis akut.' All symptoms and examination results align with this diagnosis.
+GPT-4o mini,8,0.5,False,partial,"The candidate answer 'asma' is partially correct as it is related to the ground truth of 'asma bronkial', but it does not fully match the specific diagnosis of 'asma bronkial'."
+GPT-4o mini,9,1.0,True,correct,"The candidate answer 'dispepsia' matches one of the ground truth answers, which is 'dispepsia'."
+GPT-4o mini,10,1.0,True,correct,The candidate answer 'dispepsia' matches the ground truth 'dispepsia' perfectly.
+GPT-4o mini,11,1.0,True,correct,The candidate answer 'gastroenteritis' perfectly matches the ground truth diagnosis of 'gastroenteritis akut'. The symptoms described by the patient align with the diagnosis.
+GPT-4o mini,12,1.0,True,correct,The candidate answer 'kolik renal' is a perfect match with the ground truth 'kolik renal'. The symptoms described in the question align with the diagnosis of renal colic.
+GPT-4o mini,13,1.0,True,correct,The candidate answer 'obstruksi usus' is a perfect match with the ground truth answer 'obstruksi usus'. The symptoms described by the patient align with the diagnosis of intestinal obstruction.
+GPT-4o mini,14,1.0,True,correct,The candidate answer 'kolesistitis akut' matches one of the ground truth answers perfectly.
+GPT-4o mini,15,0.5,False,partial,The candidate answer 'appendicitis radang usus buntu' is partially correct as it correctly identifies appendicitis but uses a different term for 'usus buntu'.
+GPT-4o mini,16,0.5,False,partial,"The candidate answer 'gastroenteritis' is partially correct as it is related to gastrointestinal symptoms like vomiting, but it does not fully match the ground truth diagnoses of dispepsia and upper respiratory tract infection."
+GPT-4o mini,17,1.0,True,correct,The candidate answer 'infeksi saluran pernapasan atas' matches the ground truth diagnosis of 'infeksi saluran pernapasan atas'.
+GPT-4o mini,18,1.0,True,correct,The candidate answer 'infeksi saluran pernapasan atas' perfectly matches the ground truth diagnosis of 'infeksi saluran pernapasan atas'.
+GPT-4o mini,19,1.0,True,correct,The candidate answer 'influenza' perfectly matches the ground truth diagnosis of influenza.
+GPT-4o mini,20,0.8,True,partial,"The candidate answer 'infeksi saluran pernapasan atas' is closely related to the ground truth 'infeksi saluran pernapasan', with a minor difference in specificity."
+GPT-4o mini,21,1.0,True,correct,The candidate answer 'demam berdarah dengue' is a perfect match with the ground truth 'demam dengue'. Both refer to the same disease.
+GPT-4o mini,22,0.5,False,partial,"The candidate answer is partially correct as it mentions dengue fever, which is related to the ground truth of dengue fever. However, the term 'demam berdarah' is not explicitly mentioned in the ground truth."
+GPT-4o mini,23,0.5,False,partial,The candidate answer 'infeksi virus' matches partially with the ground truth 'awal infeksi virus 70'. It correctly identifies the presence of a viral infection but does not include the additional information about the early stage and the percentage.
+GPT-4o mini,24,0.5,False,partial,"The candidate answer 'hipertensi' is partially correct as the patient's blood pressure reading is elevated (138/98 mmHg), indicating hypertension. However, the symptoms of dizziness, nausea, and vomiting may not solely be attributed to hypertension, and further evaluation is needed to determine the exact cause."
+GPT-4o mini,25,0.5,False,partial,The candidate answer 'trauma kepala' is related to the ground truth of 'cedera kepala ringan' but does not specifically mention the luka terbuka robek (vulnus laceratum) aspect of the diagnosis.
+GPT-4o mini,26,0.5,False,partial,"The candidate answer 'luka robek laceration' is partially correct as it correctly identifies the presence of a tear (robek) in the skin, but it does not specifically mention 'vulnus laceratum' which refers to a laceration in medical terminology."
+GPT-4o mini,27,0.5,False,partial,"The candidate answer 'fraktur' is related to the ground truth 'post trauma' as a fracture can be a result of trauma. However, it is not a direct match to the ground truth diagnosis."
+GPT-4o mini,28,1.0,True,correct,"The candidate answer 'cervical vertigo' matches the ground truth 'vertigo' diagnosis. Cervical vertigo refers to vertigo caused by neck issues, which aligns with the patient falling from bed due to dizziness and feeling like there is an earthquake. Therefore, the candidate answer is correct and matches the ground truth."
+GPT-4o mini,29,0.0,False,unknown,No reasoning provided
+GPT-4o mini,30,0.5,False,partial,"The candidate answer 'luka bakar' is partially correct as it correctly identifies the presence of a burn injury, but it does not specify the degree of the burn injury as indicated in the ground truth."
+GPT-4o mini,31,1.0,True,correct,"The candidate answer 'demam biasa' matches the ground truth 'demam biasa'. Both refer to common fever, which is an appropriate diagnosis based on the symptoms provided."
+GPT-4o mini,32,0.5,False,partial,The candidate answer 'infeksi saluran pernapasan atas ispa' is partially correct as it correctly identifies the upper respiratory tract infection (ISPA) but does not specifically mention influenza which is also a possible diagnosis based on the symptoms provided.
+GPT-4o mini,33,1.0,True,correct,The candidate answer 'gastroenteritis akut' matches the ground truth 'gastroenteritis' perfectly.
+GPT-4o mini,34,0.5,False,partial,The candidate answer 'infeksi saluran pernapasan atas ispa' is partially correct as it correctly identifies the upper respiratory tract infection (ISPA) but does not specifically mention influenza which was part of the ground truth.
+GPT-4o mini,35,0.7,True,partial,"The candidate answer 'tonsilitis' matches one of the ground truth answers, but it does not cover all the symptoms mentioned in the question."
+GPT-4o mini,36,0.5,False,partial,"The candidate answer 'infeksi saluran pernapasan atas ispa' is related to the ground truth 'infeksi saluran pernapasan atas', but the specific term 'ispa' is not mentioned in the ground truth."
+GPT-4o mini,37,1.0,True,correct,The candidate answer 'gastroesophageal reflux disease (GERD)' is a perfect match with the ground truth answer 'refluks asam lambung (GERD)'. Both refer to the same condition of stomach acid flowing back into the esophagus causing symptoms like heartburn and chest pain.
+GPT-4o mini,38,1.0,True,correct,"The candidate answer 'dispepsia' matches one of the ground truth answers, which is 'dispepsia 70'. It is a correct and perfect match."
+GPT-4o mini,39,1.0,True,correct,"The candidate answer 'dispepsia' matches one of the ground truth answers, which is 'dispepsia'. Both refer to a condition characterized by pain or discomfort in the upper abdomen or upper stomach area."
+GPT-4o mini,40,1.0,True,correct,"The candidate answer 'dispepsia' matches one of the ground truth answers, which is 'dispepsia'. The symptoms described align with the diagnosis of dispepsia."
+GPT-4o mini,41,1.0,True,correct,The candidate answer 'asma' perfectly matches the ground truth diagnosis of 'asma bronkial'.
+GPT-4o mini,42,1.0,True,correct,The candidate answer 'gastritis akut' matches one of the ground truth answers perfectly.
+GPT-4o mini,43,1.0,True,correct,"The candidate answer 'dispepsia' matches one of the ground truth answers, which is 'dispepsia'. It is a perfect match."
+GPT-4o mini,44,1.0,True,correct,The candidate answer 'bronkitis akut' matches one of the ground truth answers perfectly.
+GPT-4o mini,45,1.0,True,correct,The candidate answer 'asma' perfectly matches the ground truth 'asma bronkial'. The patient's symptoms and history align with a diagnosis of asthma.
+Deepseek-V3 (non RAG),1,1.0,True,correct,"The candidate answer 'demam tifoid tipes' is a perfect match with the ground truth 'demam tifoid'. Both refer to the same disease, which is typhoid fever."
+Deepseek-V3 (non RAG),2,1.0,True,correct,"The candidate answer 'gastroenteritis akut' perfectly matches the ground truth 'gastroenteritis ge akut'. The key term 'gastroenteritis' is correctly identified, and the additional term 'akut' in the ground truth is also present in the candidate answer."
+Deepseek-V3 (non RAG),3,1.0,True,correct,The candidate answer 'demam berdarah dengue dbd dengue fever' is a perfect match with the ground truth 'dbd'. It correctly identifies the disease as dengue fever (demam berdarah).
+Deepseek-V3 (non RAG),4,0.5,False,partial,"The candidate answer is partially correct and related to the ground truth. Erisipelas is a type of bacterial skin infection that can present with redness, warmth, and pain, which aligns with the symptoms described in the case. However, the specific diagnosis of erisipelas was not mentioned in the ground truth answers."
+Deepseek-V3 (non RAG),5,1.0,True,correct,The candidate answer 'infark miokard akut serangan jantung' is a perfect match with the ground truth 'infark miokard akut serangan jantung'. Both answers correctly identify the patient's condition as an acute myocardial infarction or heart attack.
+Deepseek-V3 (non RAG),6,1.0,True,correct,"The candidate answer 'asma akut eksaserbasi' is a perfect match with the ground truth 'asma'. The symptoms described in the case such as wheezing, low SpO2, and respiratory rate are consistent with an acute exacerbation of asthma."
+Deepseek-V3 (non RAG),7,0.5,False,partial,"The candidate answer is partially correct as it correctly identifies the presence of acute respiratory infection (ISPA) and acute bronchitis, but the term 'ISPA' is not specific and could be more accurately described as 'acute respiratory infection'."
+Deepseek-V3 (non RAG),8,0.5,False,partial,"The candidate answer is related to the ground truth as it also mentions asthma, but it specifies a subtype (nonbatuk) which was not mentioned in the ground truth."
+Deepseek-V3 (non RAG),9,0.5,False,partial,"The candidate answer correctly identifies pneumonia as a possible diagnosis, but incorrectly attributes gastrointestinal symptoms to it. Pneumonia typically presents with respiratory symptoms, not gastrointestinal symptoms."
+Deepseek-V3 (non RAG),10,0.5,False,partial,"The candidate answer 'gastritis akut' is related to the ground truth answers of 'dispepsia' and 'refluk gastroesofagus gerd' as they all involve upper gastrointestinal symptoms. However, it is not an exact match."
+Deepseek-V3 (non RAG),11,0.5,False,partial,"The candidate answer correctly identifies gastroenteritis but adds the severity of 'berat' (severe) and mentions dehydration, which is not explicitly stated in the ground truth. However, the candidate answer aligns with the symptoms described in the question."
+Deepseek-V3 (non RAG),12,0.5,False,partial,The candidate answer 'batu ureter urolitiasis' is related to the ground truth 'ureterolitiasis' but not an exact match.
+Deepseek-V3 (non RAG),13,1.0,True,correct,The candidate answer 'obstruksi usus' matches the ground truth 'obstruksi usus' perfectly.
+Deepseek-V3 (non RAG),14,0.0,False,unknown,No reasoning provided
+Deepseek-V3 (non RAG),15,0.0,False,unknown,No reasoning provided
+Deepseek-V3 (non RAG),16,0.5,False,partial,"The candidate answer of gastroenteritis akut viral is partially correct as it is related to the symptoms of vomiting and gastrointestinal issues, but it does not fully match the ground truth diagnoses of dispepsia and infeksi saluran pernapasan atas."
+Deepseek-V3 (non RAG),17,0.5,False,partial,"The candidate answer 'influenzaispa viral' is partially correct as it mentions influenza, which is related to the ground truth diagnosis of influenza. However, the term 'influenzaispa viral' is not a standard medical term and lacks specificity."
+Deepseek-V3 (non RAG),18,0.5,False,partial,"The candidate answer is related to the ground truth as both mention respiratory tract infection, but the candidate answer specifies bacterial cause while the ground truth does not. The candidate answer is partially correct."
+Deepseek-V3 (non RAG),19,1.0,True,correct,The candidate answer 'influenza flu' is a perfect match with the ground truth 'influenza'. Both refer to the same illness.
+Deepseek-V3 (non RAG),20,0.5,False,partial,"The candidate answer 'influenza flu' is related to the ground truth 'infeksi saluran pernapasan', as influenza is a type of respiratory infection. However, it is not an exact match."
+Deepseek-V3 (non RAG),21,0.5,False,Partial,"The candidate answer includes 'virus' which matches the ground truth, but it also includes 'influenza' and 'covid19' which are not mentioned in the ground truth."
+Deepseek-V3 (non RAG),22,1.0,True,correct,"The candidate answer is a perfect match with the ground truth, as it correctly identifies the condition as dengue fever in its early phase."
+Deepseek-V3 (non RAG),23,0.5,False,partial,"The candidate answer includes 'infeksi virus' which matches the ground truth, but it also includes additional details such as 'akut influenzacovid19dengue' which were not mentioned in the ground truth."
+Deepseek-V3 (non RAG),24,0.5,False,partial,"The candidate answer is partially correct and related to the ground truth. While the candidate mentioned orthostatic hypotension or presyncope, which is related to the symptoms described, it does not fully match the specific diagnoses provided in the ground truth."
+Deepseek-V3 (non RAG),25,0.5,False,Partial,"The candidate answer correctly identifies the scalp laceration and head trauma, but it does not specifically mention the mild severity of the head injury as indicated in the ground truth."
+Deepseek-V3 (non RAG),26,0.5,False,partial,"The candidate answer correctly identifies the presence of a laceration (robek) on the right elbow (siku kanan), which matches the ground truth. However, it does not specifically mention the term 'vulnus laceratum' which is part of the ground truth answer."
+Deepseek-V3 (non RAG),27,0.5,False,partial,The candidate answer is related to the ground truth but not an exact match. It specifies the type of trauma as musculoskeletal and indicates it is mild.
+Deepseek-V3 (non RAG),28,0.7,True,partial,"The candidate answer of 'gangguan telinga dalam lainnya' is related to the ground truth of 'vertigo', which is a disorder of the inner ear causing dizziness and balance problems. However, it is not as specific as the actual diagnosis of 'ckr disebabkan oleh vertigo'."
+Deepseek-V3 (non RAG),29,0.5,False,partial,"The candidate answer 'abrasi' is related to the ground truth 'luka lecet' as both refer to abrasions or superficial injuries to the skin. However, 'abrasi' is more specific while 'luka lecet' is a general term."
+Deepseek-V3 (non RAG),30,0.5,False,partial,"The candidate answer 'luka terbuka' (open wound) is related to the ground truth of 'burn injury', but it does not specifically match the diagnosis of 'luka bakar derajat iii 70' and 'luka bakar derajat iib 50'."
+Deepseek-V3 (non RAG),31,0.5,False,partial,"The candidate answer correctly mentions dengue as a possible cause, which aligns with the ground truth. However, it also includes influenza as a possibility, which was not mentioned in the ground truth."
+Deepseek-V3 (non RAG),32,0.5,False,partial,"The candidate answer 'infeksi saluran pernapasan atas ispa' is related to the ground truth 'infeksi saluran pernapasan atas', but the specific term 'ispa' was not mentioned in the ground truth."
+Deepseek-V3 (non RAG),33,1.0,True,correct,"The candidate answer correctly identifies both possible diagnoses mentioned in the ground truth, which are viral flu infection and viral gastroenteritis."
+Deepseek-V3 (non RAG),34,0.5,False,partial,"The candidate answer 'common cold ispa virus' is partially correct and related as it correctly identifies the viral nature of the illness and mentions the common cold, which is a type of upper respiratory infection."
+Deepseek-V3 (non RAG),35,1.0,True,correct,"The candidate answer 'faringitis akut' perfectly matches the ground truth answer 'faringitis'. Both refer to inflammation of the throat, which aligns with the symptoms described in the question."
+Deepseek-V3 (non RAG),36,0.5,False,partial,"The candidate answer is partially correct and related as bronkitis akut viral is a type of upper respiratory tract infection, which is related to the ground truth diagnosis of infeksi saluran pernapasan atas."
+Deepseek-V3 (non RAG),37,1.0,True,correct,The candidate answer 'gerd gastroesophageal reflux disease' is a perfect match with the ground truth 'refluks asam lambung gerd'. Both refer to the same condition of gastroesophageal reflux disease.
+Deepseek-V3 (non RAG),38,1.0,True,correct,"The candidate answer 'refluks asam gerd' is a perfect match with the ground truth 'reflux gastroesofageal gerd'. Both refer to the same condition of acid reflux affecting the upper abdomen and causing symptoms like heartburn, sweating, nausea, dizziness, and vomiting."
+Deepseek-V3 (non RAG),39,1.0,True,correct,The candidate answer 'gastroesophageal reflux disease gerd' is a perfect match with the ground truth answer 'gastroesophageal reflux desiease gerd'. The candidate answer correctly identifies the specific condition related to the symptoms described.
+Deepseek-V3 (non RAG),40,0.5,False,partial,"The candidate answer of ulkus peptik tukak lambung atau usus is related to the ground truth of dispepsia and gastritis akut, as they all involve upper gastrointestinal issues. However, the candidate answer is more specific and mentions peptic ulcer, which is a possible cause of the symptoms described."
+Deepseek-V3 (non RAG),41,0.5,False,partial,The candidate answer is partially correct as it correctly identifies the respiratory infection but uses a different term (ISPA instead of infeksi saluran pernapasan atas).
+Deepseek-V3 (non RAG),42,1.0,True,correct,The candidate answer 'gastroesophageal reflux disease gerd' is a perfect match with the ground truth 'refleks asam lambung gerd'. Both refer to the same condition.
+Deepseek-V3 (non RAG),43,0.5,False,partial,"The candidate answer 'gastroesophageal reflux disease (GERD)' is related to the ground truth of 'dispepsia' as both involve upper gastrointestinal symptoms, but it is not an exact match."
+Deepseek-V3 (non RAG),44,0.5,False,partial,"The candidate answer of 'gagal jantung kongestif' (congestive heart failure) is related to the ground truth of 'gangguan kardiovaskular' (cardiovascular disorder), but it does not specifically match the diagnosis of bronkitis akut or infeksi saluran pernapasan."
+Deepseek-V3 (non RAG),45,1.0,True,correct,"The candidate answer 'eksaserbasi asma' perfectly matches the ground truth 'asma bronkial'. Both refer to an exacerbation of asthma, which aligns with the patient's symptoms and history."
+Deepseek-V3-RAG,1,1.0,True,correct,"The candidate answer 'demam tifoid' is a perfect match with the ground truth 'demam tifoid'. Both refer to typhoid fever, which is the correct diagnosis based on the symptoms provided."
+Deepseek-V3-RAG,2,1.0,True,correct,The candidate answer 'gastroenteritis akut' perfectly matches the ground truth 'gastroenteritis ge akut'. The candidate answer is a correct and precise diagnosis.
+Deepseek-V3-RAG,3,1.0,True,correct,The candidate answer 'demam berdarah dengue dbd' is a perfect match with the ground truth 'dbd'. It correctly identifies the disease as dengue fever (demam berdarah).
+Deepseek-V3-RAG,4,0.5,False,partial,"The candidate answer correctly identifies the presence of a bacterial infection (infeksi bakteri) and mentions cellulitis (selulitis), which is a type of bacterial skin infection. However, the candidate answer does not specifically mention the systemic nature of the infection as indicated in the ground truth."
+Deepseek-V3-RAG,5,0.5,False,partial,"The candidate answer correctly identifies angina pectoris, which is related to the ground truth of angina pektoris. However, the term 'kardiovaskular' is not necessary and does not match the specific diagnosis of 'infark miokard akut serangan jantung.'"
+Deepseek-V3-RAG,6,1.0,True,correct,"The candidate answer 'asma' matches the ground truth diagnosis of asma. The symptoms described in the case, such as wheezing, low SpO2, and respiratory rate >24 bpm during shortness of breath, are consistent with an asthma diagnosis."
+Deepseek-V3-RAG,7,1.0,True,correct,The candidate answer 'bronkitis akut' perfectly matches the ground truth diagnosis of 'bronkitis akut.' All symptoms and examination results align with this diagnosis.
+Deepseek-V3-RAG,8,0.5,False,partial,"The candidate answer 'asma' is partially correct as it is related to the ground truth of 'asma bronkial', but it does not fully match the specificity of 'asma bronkial'."
+Deepseek-V3-RAG,9,1.0,True,correct,"The candidate answer 'dispepsia' matches the ground truth answer 'dispepsia'. Both refer to upper abdominal pain with symptoms like nausea and vomiting, which align with the patient's presentation."
+Deepseek-V3-RAG,10,1.0,True,correct,The candidate answer 'dispepsia' matches the ground truth 'dispepsia' perfectly.
+Deepseek-V3-RAG,11,1.0,True,correct,The candidate answer 'gastroenteritis akut' perfectly matches the ground truth diagnosis of 'gastroenteritis akut'. The symptoms described in the question align with the diagnosis provided.
+Deepseek-V3-RAG,12,1.0,True,correct,"The candidate answer 'batu ginjal nefrolitiasis' is a perfect match with the ground truth 'batu ginjal'. Nefrolitiasis is another term for kidney stones, which aligns with the diagnosis of 'batu ginjal'."
+Deepseek-V3-RAG,13,1.0,True,correct,"The candidate answer 'obstruksi usus' matches one of the ground truth answers, which is 'obstruksi usus'. The symptoms described in the question, such as severe abdominal pain, difficulty passing stool, vomiting, and fever, are indicative of intestinal obstruction."
+Deepseek-V3-RAG,14,0.5,False,partial,"The candidate answer 'dispepsia' is partially correct as it is related to the symptoms described, but the ground truth also includes 'kolesistitis akut' which is a more specific diagnosis."
+Deepseek-V3-RAG,15,1.0,True,correct,The candidate answer 'apendisitis akut' is a perfect match with the ground truth 'appendisitis akut'. The spelling difference does not affect the accuracy of the diagnosis.
+Deepseek-V3-RAG,16,0.5,False,partial,"The candidate answer of 'gastroenteritis akut' is related to the symptoms of vomiting and epigastric discomfort, but it does not fully match the ground truth diagnoses of dispepsia and upper respiratory tract infection."
+Deepseek-V3-RAG,17,0.8,True,partial,"The candidate answer 'influenza' is partially correct as it is related to the ground truth diagnosis of 'influenza'. However, the candidate did not mention the specific type of infection (upper respiratory tract infection) as in the ground truth."
+Deepseek-V3-RAG,18,1.0,True,correct,"The candidate answer 'bronkitis akut' matches the ground truth 'bronkitis'. Both refer to inflammation of the bronchial tubes, which fits the symptoms described."
+Deepseek-V3-RAG,19,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,20,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,21,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,22,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,23,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,24,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,25,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,26,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,27,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,28,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,29,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,30,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,31,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,32,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,33,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,34,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,35,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,36,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,37,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,38,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,39,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,40,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,41,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,42,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,43,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,44,0.0,False,unknown,No reasoning provided
+Deepseek-V3-RAG,45,0.0,False,unknown,No reasoning provided
