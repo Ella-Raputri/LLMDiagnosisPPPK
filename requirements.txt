@@ -10,3 +10,4 @@ xlrd>=2.0.0
 bert_score
 bleurt
 tf-keras
+hf_xet
