@@ -1,1 +1,1 @@
-# RAG Evaluation of Diagnosis Data
+# Comparison of Diagnosis Ability of Models
