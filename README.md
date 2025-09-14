@@ -16,7 +16,7 @@ This repository contains the code for evaluating the diagnostic ability of LLM t
 
 <br>
 
-## Folders
+## Folders and File
 <details>
 <summary>&ensp;<b>cleaning_before_eval</b></summary>
   
