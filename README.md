@@ -1,4 +1,4 @@
-# Retrieval-Augmented Diagnosis: A Comparative Study of the Diagnostic Accuracy of Enhanced LLM with Integration of PPPK
+# Retrieval-Augmented LLMs with Indonesian Clinical Trials Guidelines: A Comparative Study
 
 <br>
 
