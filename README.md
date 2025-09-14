@@ -51,5 +51,5 @@ This repository contains the code for evaluating the diagnostic ability of LLM t
 <details>
 <summary>&ensp;<b>requirements.txt</b></summary>
   
-- COntains all the libraries that are needed to run the evaluation code.
+- Contains all the libraries that are needed to run the evaluation code.
 </details>
