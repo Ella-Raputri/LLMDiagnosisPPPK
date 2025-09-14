@@ -24,31 +24,43 @@ export async function POST(req: Request) {
     const latestMessage = messages[messages?.length - 1]?.content;
     let docContext = '';
 
+    const problematicModels = ['qwen-2-5-72b'];
+
     if (useRag) {
-      // Generate embedding for the user's query
-      const { data } = await openai.embeddings.create({
-        input: latestMessage,
-        model: 'text-embedding-3-small'
-      });
+      if (!problematicModels.includes(llm)) {
+        try {
+          // Generate embedding for the user's query
+          const { data } = await openai.embeddings.create({
+            input: latestMessage,
+            model: 'text-embedding-3-small'
+          });
 
-      // Use the single collection "chat_radiology"
-      const collection = await astraDb.collection("chat_radiology");
+          // Use the single collection "chat_radiology"
+          const collection = await astraDb.collection("chat_radiology");
 
-      // Perform a vector similarity search
-      const cursor = collection.find(null, {
-        sort: {
-          $vector: data[0]?.embedding,
-        },
-        limit: 5,
-      });
+          // Perform a vector similarity search
+          const cursor = collection.find(null, {
+            sort: {
+              $vector: data[0]?.embedding,
+            },
+            limit: 5,
+          });
 
-      const documents = await cursor.toArray();
-      
-      // Join the top documents as context
-      docContext = documents?.map(doc => {
-        const filename = doc.category || "dokumen tidak diketahui";
-        return `Sumber: ${filename}\n${doc.text}\n`;
-      }).join("\n") || '';
+          const documents = await cursor.toArray();
+          
+          // Join the top documents as context
+          docContext = documents?.map(doc => {
+            const filename = doc.category || "dokumen tidak diketahui";
+            return `Sumber: ${filename}\n${doc.text}\n`;
+          }).join("\n") || '';
+        } catch (error) {
+          console.error('Vector search error:', error);
+          docContext = ''; // Fallback to empty context
+        }
+      } else {
+          // For problematic models, set docContext to empty
+          docContext = '';
+        }
     }
 
     // Enhanced instructions for thoroughness and detail
@@ -148,6 +160,95 @@ export async function POST(req: Request) {
 
       const stream = OpenAIStream(response);
       return new StreamingTextResponse(stream); 
+    } else if (llm === 'qwen-2-5-72b' || !llm) {
+      // Enhanced logging for OpenRouter authentication
+      console.log('OpenRouter API Key:', process.env.OPENROUTER_API_KEY ? 'Present' : 'Missing');
+      
+      try {
+        const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+          method: 'POST',
+          headers: {
+            'Authorization': `Bearer ${process.env.OPENROUTER_API_KEY}`,
+            'HTTP-Referer': 'https://radiologi.com', 
+            'X-Title': 'Radiology GPT',
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            "model": "qwen/qwen2.5-vl-72b-instruct:free",
+            "messages": [
+              {
+                "role": "system",
+                "content": ragPrompt[0].content
+              },
+              {
+                "role": "user",
+                "content": messages[messages.length - 1].content
+              }
+            ],
+            "stream": true,
+            "max_tokens": 5000,
+            "temperature": 0.2
+          })
+        });
+      
+        console.log('Response status:', response.status);
+        
+        if (!response.ok) {
+          const errorText = await response.text();
+          console.error('Full OpenRouter error response:', errorText);
+          throw new Error(`Failed to fetch response from Qwen: ${errorText}`);
+        }
+      
+        const stream = new ReadableStream({
+          async start(controller) {
+            const reader = response.body.getReader();
+            const decoder = new TextDecoder();
+      
+            try {
+              while (true) {
+                const { done, value } = await reader.read();
+                if (done) {
+                  controller.close();
+                  break;
+                }
+      
+                const chunk = decoder.decode(value, { stream: true });
+                const lines = chunk.split('\n').filter(line => line.trim() !== '');
+      
+                for (const line of lines) {
+                  if (line.startsWith('data: ')) {
+                    const message = line.replace(/^data: /, '');
+                    
+                    if (message === '[DONE]') {
+                      continue;
+                    }
+      
+                    try {
+                      const parsed = JSON.parse(message);
+                      if (parsed.choices && parsed.choices[0] && parsed.choices[0].delta) {
+                        const content = parsed.choices[0].delta.content;
+                        if (content) {
+                          controller.enqueue(content);
+                        }
+                      }
+                    } catch (error) {
+                      console.error('Error parsing JSON:', error);
+                    }
+                  }
+                }
+              }
+            } catch (error) {
+              console.error('Stream reading error:', error);
+              controller.error(error);
+            }
+          }
+        });
+      
+        return new StreamingTextResponse(stream);
+      } catch (error) {
+        console.error('Detailed OpenRouter error:', error);
+        throw error;
+      }
     }
     else {
       throw new Error(`Unsupported LLM: ${llm}`);

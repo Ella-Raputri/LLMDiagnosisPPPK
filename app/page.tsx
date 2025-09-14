@@ -7,6 +7,7 @@ import Configure from '../components/Configure';
 import PromptSuggestionRow from '../components/PromptSuggestions/PromptSuggestionsRow';
 import ThemeButton from '../components/ThemeButton';
 import useConfiguration from './hooks/useConfiguration';
+import EvaluationResults from '../components/EvaluationResults';
 
 export default function Home() {
   const { append, messages, input, handleInputChange, handleSubmit } = useChat();
@@ -14,6 +15,7 @@ export default function Home() {
   
   const messagesEndRef = useRef(null);
   const [configureOpen, setConfigureOpen] = useState(false);
+  const [showEvaluation, setShowEvaluation] = useState(false);
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
@@ -32,6 +34,10 @@ export default function Home() {
     append(msg, { options: { body: { useRag, llm } } });
   };
 
+  const toggleEvaluationResults = () => {
+    setShowEvaluation(!showEvaluation);
+  };
+
   return (
     <>
     <main className="flex h-screen flex-col items-center justify-center">
@@ -45,6 +51,15 @@ export default function Home() {
               <h1 className='chatbot-text-primary text-xl md:text-2xl font-medium'>AnamnesaGPT</h1>
             </div>
             <div className='flex gap-1'>
+              <button 
+                onClick={toggleEvaluationResults}
+                className='chatbot-text-primary flex items-center gap-1 px-2 py-1 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800'
+              >
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M19 3H5C3.9 3 3 3.9 3 5V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V5C21 3.9 20.1 3 19 3ZM9 17H7V10H9V17ZM13 17H11V7H13V17ZM17 17H15V13H17V17Z" className="fill-current"/>
+                </svg>
+                <span className='hidden md:block text-sm'>Evaluation</span>
+              </button>
               <ThemeButton />
               <button onClick={() => setConfigureOpen(true)}>
                 <svg width="24" height="25" viewBox="0 0 24 25" fill="none">
@@ -84,6 +99,7 @@ export default function Home() {
       llm={llm}
       setConfiguration={setConfiguration}
     />
+    {showEvaluation && <EvaluationResults onClose={() => setShowEvaluation(false)} />}
     </>
   )
 }
