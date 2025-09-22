@@ -16,6 +16,11 @@ This repository contains the code for evaluating the diagnostic ability of LLM t
 
 <br>
 
+## Project Prototype
+Besides this repository that is used to store the evaluation code, we also have another repository which is in [here](https://github.com/Ella-Raputri/radiology-gpt). The prototype is an enhanced version of the previous researcher's prototype and is redeployed in [here](https://radiology-gpt-psi.vercel.app/). You can access the RAG-enabled AI chatbot through the deployed prototype. However, take notes that the diagnosis from the LLM is not always accurate; we do not take any responsibility for misdiagnosis. For a more accurate diagnosis, please consult medical professionals. 
+
+<br>
+
 ## Folders and File
 <details>
 <summary>&ensp;<b>cleaning_before_eval</b></summary>
