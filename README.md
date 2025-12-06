@@ -21,6 +21,7 @@ Besides this repository that is used to store the evaluation code, we also have 
 
 <br>
 
+
 ## Folders and File
 <details>
 <summary>&ensp;<b>cleaning_before_eval</b></summary>
@@ -58,3 +59,7 @@ Besides this repository that is used to store the evaluation code, we also have 
   
 - Contains all the libraries that are needed to run the evaluation code.
 </details>
+
+
+> [!DISCLAIMER]
+> The dataset in this repository is only 5 samples of the original complete data due to the NDA signed with our partner hospital.
